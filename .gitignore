@@ -9,6 +9,10 @@ wheels/
 # Virtual environments
 .venv
 
+# data dirs
+lab_001/test.ipynb
+lab_001/data
+
 # Other projects
 src/hypersphere.ipynb
 
