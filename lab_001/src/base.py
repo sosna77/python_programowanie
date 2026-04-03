@@ -4,11 +4,11 @@ from pathlib import Path
 
 @dataclass
 class SimulationConfig():
-    total_steps: int
-    dt: float 
-    visualize: bool
-    state_file_name: str
-    stats_file_name: str
+    total_steps: int = 1
+    dt: float = 0.1
+    visualize: bool = False
+    state_file_name: str = ''
+    stats_file_name: str = ''
 
 @dataclass
 class SimulationState():
@@ -40,7 +40,7 @@ class SimulationResult(ABC):
         self.stats_file_path = data_dir/self.config.stats_file_name
 
     @abstractmethod
-    def write_results(self, config: SimulationConfig):
+    def write_results(self):
         pass
 
 class StepRule(ABC):
@@ -103,7 +103,7 @@ class Simulation:
 
 
         print('Writing results...')
-        self.results.write_results(self.config)
+        self.results.write_results()
         print('Writing final statistics...')
         self.final_stats = self.final_analyzer.analyze_final(self.results)
         self.results.final_statistics = self.final_stats

@@ -54,7 +54,7 @@ class OscillatorFinalStatistics(FinalStatistics):
 
 @dataclass
 class OscillatorResult(SimulationResult):
-    def write_results(self, config: OscillatorConfig):
+    def write_results(self):
         state_data = [asdict(state) for state in self.steps]
         stats_data = [asdict(stats) for stats in self.statistics]
 
