@@ -1,22 +1,23 @@
 from base import *
-from dataclasses import dataclass
+from dataclasses import dataclass, asdict
 import numpy as np
 import matplotlib.pyplot as plt
+import json
 
 @dataclass
 class OscillatorConfig(SimulationConfig):
     total_steps: int = 1000
     dt: float = 0.1
     visualize: bool = True
-    state_file_name: str = 'oscillator_states.csv'
-    stats_file_name: str = 'oscillator_stats.csv'
+    state_file_name: str = 'oscillator_states.json'
+    stats_file_name: str = 'oscillator_stats.json'
     plot_name: str = 'oscillator_plots1.png'
     # method=0 Euler
     # method=1 Verlet
     method: int = 1
 
     # constants
-    k: float = 7
+    k: float = 2
     m: float = 1
     c: float = 0.2
 
@@ -24,17 +25,12 @@ class OscillatorConfig(SimulationConfig):
     x0: float = 17
     v0: float = 2
 
-    
-
 @dataclass
 class OscillatorState(SimulationState):
     step: int = 0
     t: float = 0
     x: float = 0
     v: float = 0 
-
-    def state_to_txt(self):
-        return f'{self.step},{self.t},{self.x},{self.v}\n'
     
 @dataclass
 class OscillatorStateVerlet(SimulationState):
@@ -43,9 +39,6 @@ class OscillatorStateVerlet(SimulationState):
     x: float = 0
     v: float = 0 
     a: float = 0
-
-    def state_to_txt(self):
-        return f'{self.step},{self.t},{self.x},{self.v},{self.a}\n'
     
 @dataclass
 class OscillatorStepStatistics(StepStatistics):
@@ -53,14 +46,24 @@ class OscillatorStepStatistics(StepStatistics):
     E_potential: float
     E_total: float
 
-    def stats_to_txt(self):
-        return f'{self.E_kinetic},{self.E_potential},{self.E_total}\n'
-
 @dataclass
 class OscillatorFinalStatistics(FinalStatistics):
     x_max: float
     E_end: float
     E_mean: float
+
+@dataclass
+class OscillatorResult(SimulationResult):
+    def write_results(self, config: OscillatorConfig):
+        state_data = [asdict(state) for state in self.steps]
+        stats_data = [asdict(stats) for stats in self.statistics]
+
+        SimulationResult.setup_paths(self=self)
+
+        with open(self.state_file_path, 'w') as state_file:
+            json.dump(state_data, state_file, indent=4)
+        with open(self.stats_file_path, 'w') as stats_file:
+            json.dump(stats_data, stats_file, indent=4)
 
 class OscillatorStepRuleEuler(StepRule):
     def calculate_step(self, config: OscillatorConfig, state: OscillatorState) -> OscillatorState:
@@ -143,11 +146,11 @@ def main():
     sim = Simulation(config=config,                    
                     state=state,
                     step_rule=method,
+                    results=OscillatorResult(config=config),
                     step_analyzer=OscillatorStepAnalyzer(),
                     final_analyzer=OscillatorFinalAnalyzer(),
                     visualizer=OscillatorVisualizer())
     sim.run()
-    print(sim.results.final_statistics)
     print('Simmulation completed')
 if __name__=='__main__':
     main()
