@@ -38,3 +38,18 @@ python oscillator.py
 ```
 
 ## Przykład: model SIR na siatce kwadratowej
+
+W skrypcie `SIR.py` znajduje się druga implementacja frameworku z `base.py` tym razem do modelowania rozprzestrzeniania się epidemii gdzie
+- `S` *(susceptible)* - podatny na zarażenie (kolor grafitowy)
+- `I` *(infected)* - zarażony (kolor czerwony)
+- `R` *(removed)* - usunięty z symulacji np. zdrowy (kolor zielony)
+
+W konfiguracji poza podstawowymi wartościami można podać różne parametry takie jak:
+- stan początkowy (1 osobnik na środku, czy losowanie z siatki z prawdopodobieństwem `p_infected`)
+- metoda zarażania (*von Neumann* lub *Moore's*)
+- czy chcemy wizualizację
+- czy chcemy animację (jaką formę animacji)
+
+Analogicznie, do poprzedniego przykładu dane o krokach czasowych jak i statystykach zapisywane są w katalogu `.data/`, a wykresy wraz z animacjami w `.plots/`.
+
+Wywołanie analogiczne, przy użyciu IDE lub w terminalu.
