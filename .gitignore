@@ -11,7 +11,10 @@ wheels/
 
 # data dirs
 lab_001/test.ipynb
+lab_001/data
+lab_001/plots
 
+lab_002/test.ipynb
 
 # Other projects
 src/hypersphere.ipynb

@@ -16,7 +16,7 @@ class SIRConfig(SimulationConfig):
     total_steps: int = 1000
     visualize: bool = True
     animate: int = 2                # if visualize==True -> 0 - no animation, 1 - grid animation, 2 - dashboard animation
-    plots_on_screen: int = 0        # 0 - save plots, 1 - plots on screen
+    plots_on_screen: int = 1        # 0 - save plots, 1 - plots on screen
     state_file_name: str = 'SIR_states'
     stats_file_name: str = 'SIR_stats'
     plot_name: str = 'SIR_plot'
