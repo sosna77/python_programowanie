@@ -6,6 +6,42 @@
         "new_infections": 0
     },
     {
+        "S_no": 39999,
+        "I_no": 1,
+        "R_no": 0,
+        "new_infections": 0
+    },
+    {
+        "S_no": 39999,
+        "I_no": 1,
+        "R_no": 0,
+        "new_infections": 0
+    },
+    {
+        "S_no": 39999,
+        "I_no": 1,
+        "R_no": 0,
+        "new_infections": 0
+    },
+    {
+        "S_no": 39999,
+        "I_no": 1,
+        "R_no": 0,
+        "new_infections": 0
+    },
+    {
+        "S_no": 39999,
+        "I_no": 1,
+        "R_no": 0,
+        "new_infections": 0
+    },
+    {
+        "S_no": 39999,
+        "I_no": 1,
+        "R_no": 0,
+        "new_infections": 0
+    },
+    {
         "S_no": 39998,
         "I_no": 2,
         "R_no": 0,
@@ -20,164 +56,152 @@
     {
         "S_no": 39998,
         "I_no": 2,
-        "R_no": 0,
-        "new_infections": 0
-    },
-    {
-        "S_no": 39997,
-        "I_no": 3,
-        "R_no": 0,
-        "new_infections": 1
-    },
-    {
-        "S_no": 39997,
-        "I_no": 3,
-        "R_no": 0,
-        "new_infections": 0
-    },
-    {
-        "S_no": 39997,
-        "I_no": 3,
         "R_no": 0,
         "new_infections": 0
     },
     {
         "S_no": 39996,
         "I_no": 4,
-        "R_no": 0,
-        "new_infections": 1
-    },
-    {
-        "S_no": 39996,
-        "I_no": 4,
-        "R_no": 0,
-        "new_infections": 0
-    },
-    {
-        "S_no": 39994,
-        "I_no": 6,
         "R_no": 0,
         "new_infections": 2
+    },
+    {
+        "S_no": 39996,
+        "I_no": 4,
+        "R_no": 0,
+        "new_infections": 0
+    },
+    {
+        "S_no": 39995,
+        "I_no": 5,
+        "R_no": 0,
+        "new_infections": 1
     },
     {
         "S_no": 39992,
         "I_no": 8,
         "R_no": 0,
-        "new_infections": 2
-    },
-    {
-        "S_no": 39989,
-        "I_no": 11,
-        "R_no": 0,
         "new_infections": 3
     },
     {
-        "S_no": 39987,
-        "I_no": 13,
+        "S_no": 39990,
+        "I_no": 10,
         "R_no": 0,
         "new_infections": 2
     },
     {
-        "S_no": 39984,
-        "I_no": 16,
+        "S_no": 39988,
+        "I_no": 12,
         "R_no": 0,
-        "new_infections": 3
+        "new_infections": 2
     },
     {
-        "S_no": 39979,
-        "I_no": 21,
+        "S_no": 39986,
+        "I_no": 14,
         "R_no": 0,
-        "new_infections": 5
+        "new_infections": 2
     },
     {
-        "S_no": 39976,
-        "I_no": 24,
-        "R_no": 0,
-        "new_infections": 3
-    },
-    {
-        "S_no": 39973,
-        "I_no": 27,
-        "R_no": 0,
-        "new_infections": 3
-    },
-    {
-        "S_no": 39968,
-        "I_no": 32,
+        "S_no": 39981,
+        "I_no": 19,
         "R_no": 0,
         "new_infections": 5
     },
     {
-        "S_no": 39961,
-        "I_no": 39,
-        "R_no": 0,
-        "new_infections": 7
-    },
-    {
-        "S_no": 39954,
-        "I_no": 46,
-        "R_no": 0,
-        "new_infections": 7
-    },
-    {
-        "S_no": 39950,
-        "I_no": 50,
+        "S_no": 39977,
+        "I_no": 23,
         "R_no": 0,
         "new_infections": 4
     },
     {
-        "S_no": 39948,
-        "I_no": 52,
+        "S_no": 39972,
+        "I_no": 28,
+        "R_no": 0,
+        "new_infections": 5
+    },
+    {
+        "S_no": 39969,
+        "I_no": 31,
+        "R_no": 0,
+        "new_infections": 3
+    },
+    {
+        "S_no": 39966,
+        "I_no": 34,
+        "R_no": 0,
+        "new_infections": 3
+    },
+    {
+        "S_no": 39964,
+        "I_no": 36,
         "R_no": 0,
         "new_infections": 2
     },
     {
+        "S_no": 39960,
+        "I_no": 40,
+        "R_no": 0,
+        "new_infections": 4
+    },
+    {
+        "S_no": 39957,
+        "I_no": 43,
+        "R_no": 0,
+        "new_infections": 3
+    },
+    {
+        "S_no": 39949,
+        "I_no": 51,
+        "R_no": 0,
+        "new_infections": 8
+    },
+    {
+        "S_no": 39946,
+        "I_no": 54,
+        "R_no": 0,
+        "new_infections": 3
+    },
+    {
         "S_no": 39942,
-        "I_no": 57,
+        "I_no": 58,
+        "R_no": 0,
+        "new_infections": 4
+    },
+    {
+        "S_no": 39934,
+        "I_no": 66,
+        "R_no": 0,
+        "new_infections": 8
+    },
+    {
+        "S_no": 39927,
+        "I_no": 73,
+        "R_no": 0,
+        "new_infections": 7
+    },
+    {
+        "S_no": 39919,
+        "I_no": 81,
+        "R_no": 0,
+        "new_infections": 8
+    },
+    {
+        "S_no": 39913,
+        "I_no": 86,
         "R_no": 1,
         "new_infections": 6
     },
     {
-        "S_no": 39940,
-        "I_no": 59,
+        "S_no": 39905,
+        "I_no": 94,
         "R_no": 1,
-        "new_infections": 2
-    },
-    {
-        "S_no": 39930,
-        "I_no": 69,
-        "R_no": 1,
-        "new_infections": 10
-    },
-    {
-        "S_no": 39919,
-        "I_no": 80,
-        "R_no": 1,
-        "new_infections": 11
-    },
-    {
-        "S_no": 39914,
-        "I_no": 84,
-        "R_no": 2,
-        "new_infections": 5
-    },
-    {
-        "S_no": 39906,
-        "I_no": 92,
-        "R_no": 2,
-        "new_infections": 8
-    },
-    {
-        "S_no": 39898,
-        "I_no": 100,
-        "R_no": 2,
         "new_infections": 8
     },
     {
         "S_no": 39896,
-        "I_no": 101,
-        "R_no": 3,
-        "new_infections": 2
+        "I_no": 103,
+        "R_no": 1,
+        "new_infections": 9
     },
     {
         "S_no": 39888,
@@ -186,3573 +210,3543 @@
         "new_infections": 8
     },
     {
-        "S_no": 39883,
-        "I_no": 114,
+        "S_no": 39882,
+        "I_no": 115,
         "R_no": 3,
-        "new_infections": 5
+        "new_infections": 6
     },
     {
-        "S_no": 39874,
-        "I_no": 123,
-        "R_no": 3,
-        "new_infections": 9
-    },
-    {
-        "S_no": 39865,
-        "I_no": 132,
-        "R_no": 3,
-        "new_infections": 9
-    },
-    {
-        "S_no": 39851,
-        "I_no": 146,
-        "R_no": 3,
-        "new_infections": 14
-    },
-    {
-        "S_no": 39844,
-        "I_no": 153,
-        "R_no": 3,
-        "new_infections": 7
-    },
-    {
-        "S_no": 39831,
-        "I_no": 166,
+        "S_no": 39869,
+        "I_no": 128,
         "R_no": 3,
         "new_infections": 13
     },
     {
-        "S_no": 39816,
-        "I_no": 181,
-        "R_no": 3,
-        "new_infections": 15
+        "S_no": 39856,
+        "I_no": 139,
+        "R_no": 5,
+        "new_infections": 13
     },
     {
-        "S_no": 39806,
+        "S_no": 39845,
+        "I_no": 150,
+        "R_no": 5,
+        "new_infections": 11
+    },
+    {
+        "S_no": 39834,
+        "I_no": 160,
+        "R_no": 6,
+        "new_infections": 11
+    },
+    {
+        "S_no": 39824,
+        "I_no": 170,
+        "R_no": 6,
+        "new_infections": 10
+    },
+    {
+        "S_no": 39813,
+        "I_no": 181,
+        "R_no": 6,
+        "new_infections": 11
+    },
+    {
+        "S_no": 39803,
         "I_no": 191,
-        "R_no": 3,
+        "R_no": 6,
         "new_infections": 10
     },
     {
         "S_no": 39792,
-        "I_no": 204,
-        "R_no": 4,
-        "new_infections": 14
-    },
-    {
-        "S_no": 39783,
-        "I_no": 213,
-        "R_no": 4,
-        "new_infections": 9
-    },
-    {
-        "S_no": 39763,
-        "I_no": 231,
+        "I_no": 202,
         "R_no": 6,
-        "new_infections": 20
+        "new_infections": 11
     },
     {
-        "S_no": 39750,
-        "I_no": 244,
+        "S_no": 39787,
+        "I_no": 207,
+        "R_no": 6,
+        "new_infections": 5
+    },
+    {
+        "S_no": 39774,
+        "I_no": 220,
         "R_no": 6,
         "new_infections": 13
     },
     {
-        "S_no": 39728,
-        "I_no": 266,
-        "R_no": 6,
-        "new_infections": 22
-    },
-    {
-        "S_no": 39711,
-        "I_no": 282,
+        "S_no": 39759,
+        "I_no": 234,
         "R_no": 7,
-        "new_infections": 17
-    },
-    {
-        "S_no": 39696,
-        "I_no": 296,
-        "R_no": 8,
         "new_infections": 15
     },
     {
-        "S_no": 39675,
-        "I_no": 317,
+        "S_no": 39747,
+        "I_no": 245,
         "R_no": 8,
-        "new_infections": 21
+        "new_infections": 12
     },
     {
-        "S_no": 39658,
-        "I_no": 333,
-        "R_no": 9,
-        "new_infections": 17
-    },
-    {
-        "S_no": 39636,
-        "I_no": 352,
-        "R_no": 12,
-        "new_infections": 22
-    },
-    {
-        "S_no": 39615,
-        "I_no": 373,
-        "R_no": 12,
-        "new_infections": 21
-    },
-    {
-        "S_no": 39599,
-        "I_no": 388,
-        "R_no": 13,
+        "S_no": 39731,
+        "I_no": 261,
+        "R_no": 8,
         "new_infections": 16
     },
     {
-        "S_no": 39575,
-        "I_no": 412,
+        "S_no": 39716,
+        "I_no": 274,
+        "R_no": 10,
+        "new_infections": 15
+    },
+    {
+        "S_no": 39694,
+        "I_no": 296,
+        "R_no": 10,
+        "new_infections": 22
+    },
+    {
+        "S_no": 39684,
+        "I_no": 305,
+        "R_no": 11,
+        "new_infections": 10
+    },
+    {
+        "S_no": 39667,
+        "I_no": 320,
         "R_no": 13,
-        "new_infections": 24
+        "new_infections": 17
     },
     {
-        "S_no": 39557,
-        "I_no": 428,
+        "S_no": 39653,
+        "I_no": 334,
+        "R_no": 13,
+        "new_infections": 14
+    },
+    {
+        "S_no": 39628,
+        "I_no": 357,
         "R_no": 15,
-        "new_infections": 18
-    },
-    {
-        "S_no": 39532,
-        "I_no": 452,
-        "R_no": 16,
         "new_infections": 25
     },
     {
-        "S_no": 39509,
-        "I_no": 474,
+        "S_no": 39605,
+        "I_no": 378,
         "R_no": 17,
         "new_infections": 23
     },
     {
-        "S_no": 39485,
-        "I_no": 498,
+        "S_no": 39586,
+        "I_no": 397,
         "R_no": 17,
-        "new_infections": 24
-    },
-    {
-        "S_no": 39462,
-        "I_no": 521,
-        "R_no": 17,
-        "new_infections": 23
-    },
-    {
-        "S_no": 39432,
-        "I_no": 551,
-        "R_no": 17,
-        "new_infections": 30
-    },
-    {
-        "S_no": 39409,
-        "I_no": 573,
-        "R_no": 18,
-        "new_infections": 23
-    },
-    {
-        "S_no": 39387,
-        "I_no": 595,
-        "R_no": 18,
-        "new_infections": 22
-    },
-    {
-        "S_no": 39356,
-        "I_no": 625,
-        "R_no": 19,
-        "new_infections": 31
-    },
-    {
-        "S_no": 39331,
-        "I_no": 646,
-        "R_no": 23,
-        "new_infections": 25
-    },
-    {
-        "S_no": 39305,
-        "I_no": 671,
-        "R_no": 24,
-        "new_infections": 26
-    },
-    {
-        "S_no": 39280,
-        "I_no": 696,
-        "R_no": 24,
-        "new_infections": 25
-    },
-    {
-        "S_no": 39262,
-        "I_no": 713,
-        "R_no": 25,
-        "new_infections": 18
-    },
-    {
-        "S_no": 39222,
-        "I_no": 751,
-        "R_no": 27,
-        "new_infections": 40
-    },
-    {
-        "S_no": 39195,
-        "I_no": 777,
-        "R_no": 28,
-        "new_infections": 27
-    },
-    {
-        "S_no": 39166,
-        "I_no": 805,
-        "R_no": 29,
-        "new_infections": 29
-    },
-    {
-        "S_no": 39144,
-        "I_no": 825,
-        "R_no": 31,
-        "new_infections": 22
-    },
-    {
-        "S_no": 39110,
-        "I_no": 859,
-        "R_no": 31,
-        "new_infections": 34
-    },
-    {
-        "S_no": 39079,
-        "I_no": 890,
-        "R_no": 31,
-        "new_infections": 31
-    },
-    {
-        "S_no": 39047,
-        "I_no": 920,
-        "R_no": 33,
-        "new_infections": 32
-    },
-    {
-        "S_no": 39009,
-        "I_no": 953,
-        "R_no": 38,
-        "new_infections": 38
-    },
-    {
-        "S_no": 38979,
-        "I_no": 982,
-        "R_no": 39,
-        "new_infections": 30
-    },
-    {
-        "S_no": 38954,
-        "I_no": 1006,
-        "R_no": 40,
-        "new_infections": 25
-    },
-    {
-        "S_no": 38919,
-        "I_no": 1037,
-        "R_no": 44,
-        "new_infections": 35
-    },
-    {
-        "S_no": 38882,
-        "I_no": 1074,
-        "R_no": 44,
-        "new_infections": 37
-    },
-    {
-        "S_no": 38856,
-        "I_no": 1099,
-        "R_no": 45,
-        "new_infections": 26
-    },
-    {
-        "S_no": 38823,
-        "I_no": 1126,
-        "R_no": 51,
-        "new_infections": 33
-    },
-    {
-        "S_no": 38791,
-        "I_no": 1156,
-        "R_no": 53,
-        "new_infections": 32
-    },
-    {
-        "S_no": 38768,
-        "I_no": 1176,
-        "R_no": 56,
-        "new_infections": 23
-    },
-    {
-        "S_no": 38749,
-        "I_no": 1192,
-        "R_no": 59,
         "new_infections": 19
     },
     {
-        "S_no": 38717,
-        "I_no": 1223,
-        "R_no": 60,
-        "new_infections": 32
+        "S_no": 39568,
+        "I_no": 414,
+        "R_no": 18,
+        "new_infections": 18
     },
     {
-        "S_no": 38686,
-        "I_no": 1251,
-        "R_no": 63,
-        "new_infections": 31
+        "S_no": 39545,
+        "I_no": 437,
+        "R_no": 18,
+        "new_infections": 23
     },
     {
-        "S_no": 38661,
-        "I_no": 1273,
-        "R_no": 66,
-        "new_infections": 25
+        "S_no": 39526,
+        "I_no": 454,
+        "R_no": 20,
+        "new_infections": 19
     },
     {
-        "S_no": 38626,
-        "I_no": 1303,
-        "R_no": 71,
-        "new_infections": 35
-    },
-    {
-        "S_no": 38592,
-        "I_no": 1335,
-        "R_no": 73,
-        "new_infections": 34
-    },
-    {
-        "S_no": 38553,
-        "I_no": 1373,
-        "R_no": 74,
-        "new_infections": 39
-    },
-    {
-        "S_no": 38515,
-        "I_no": 1410,
-        "R_no": 75,
-        "new_infections": 38
-    },
-    {
-        "S_no": 38475,
-        "I_no": 1446,
-        "R_no": 79,
-        "new_infections": 40
-    },
-    {
-        "S_no": 38436,
-        "I_no": 1480,
-        "R_no": 84,
-        "new_infections": 39
-    },
-    {
-        "S_no": 38401,
-        "I_no": 1511,
-        "R_no": 88,
-        "new_infections": 35
-    },
-    {
-        "S_no": 38365,
-        "I_no": 1540,
-        "R_no": 95,
-        "new_infections": 36
-    },
-    {
-        "S_no": 38327,
-        "I_no": 1577,
-        "R_no": 96,
-        "new_infections": 38
-    },
-    {
-        "S_no": 38289,
-        "I_no": 1611,
-        "R_no": 100,
-        "new_infections": 38
-    },
-    {
-        "S_no": 38258,
-        "I_no": 1639,
-        "R_no": 103,
-        "new_infections": 31
-    },
-    {
-        "S_no": 38222,
-        "I_no": 1671,
-        "R_no": 107,
-        "new_infections": 36
-    },
-    {
-        "S_no": 38183,
-        "I_no": 1707,
-        "R_no": 110,
-        "new_infections": 39
-    },
-    {
-        "S_no": 38149,
-        "I_no": 1739,
-        "R_no": 112,
-        "new_infections": 34
-    },
-    {
-        "S_no": 38107,
-        "I_no": 1780,
-        "R_no": 113,
-        "new_infections": 42
-    },
-    {
-        "S_no": 38077,
-        "I_no": 1807,
-        "R_no": 116,
-        "new_infections": 30
-    },
-    {
-        "S_no": 38038,
-        "I_no": 1839,
-        "R_no": 123,
-        "new_infections": 39
-    },
-    {
-        "S_no": 37997,
-        "I_no": 1879,
-        "R_no": 124,
-        "new_infections": 41
-    },
-    {
-        "S_no": 37964,
-        "I_no": 1906,
-        "R_no": 130,
+        "S_no": 39493,
+        "I_no": 486,
+        "R_no": 21,
         "new_infections": 33
     },
     {
-        "S_no": 37915,
-        "I_no": 1951,
-        "R_no": 134,
+        "S_no": 39471,
+        "I_no": 507,
+        "R_no": 22,
+        "new_infections": 22
+    },
+    {
+        "S_no": 39438,
+        "I_no": 538,
+        "R_no": 24,
+        "new_infections": 33
+    },
+    {
+        "S_no": 39414,
+        "I_no": 562,
+        "R_no": 24,
+        "new_infections": 24
+    },
+    {
+        "S_no": 39391,
+        "I_no": 584,
+        "R_no": 25,
+        "new_infections": 23
+    },
+    {
+        "S_no": 39368,
+        "I_no": 604,
+        "R_no": 28,
+        "new_infections": 23
+    },
+    {
+        "S_no": 39344,
+        "I_no": 627,
+        "R_no": 29,
+        "new_infections": 24
+    },
+    {
+        "S_no": 39316,
+        "I_no": 653,
+        "R_no": 31,
+        "new_infections": 28
+    },
+    {
+        "S_no": 39294,
+        "I_no": 674,
+        "R_no": 32,
+        "new_infections": 22
+    },
+    {
+        "S_no": 39276,
+        "I_no": 692,
+        "R_no": 32,
+        "new_infections": 18
+    },
+    {
+        "S_no": 39254,
+        "I_no": 712,
+        "R_no": 34,
+        "new_infections": 22
+    },
+    {
+        "S_no": 39235,
+        "I_no": 728,
+        "R_no": 37,
+        "new_infections": 19
+    },
+    {
+        "S_no": 39216,
+        "I_no": 745,
+        "R_no": 39,
+        "new_infections": 19
+    },
+    {
+        "S_no": 39188,
+        "I_no": 772,
+        "R_no": 40,
+        "new_infections": 28
+    },
+    {
+        "S_no": 39158,
+        "I_no": 802,
+        "R_no": 40,
+        "new_infections": 30
+    },
+    {
+        "S_no": 39135,
+        "I_no": 822,
+        "R_no": 43,
+        "new_infections": 23
+    },
+    {
+        "S_no": 39112,
+        "I_no": 842,
+        "R_no": 46,
+        "new_infections": 23
+    },
+    {
+        "S_no": 39084,
+        "I_no": 866,
+        "R_no": 50,
+        "new_infections": 28
+    },
+    {
+        "S_no": 39053,
+        "I_no": 895,
+        "R_no": 52,
+        "new_infections": 31
+    },
+    {
+        "S_no": 39024,
+        "I_no": 922,
+        "R_no": 54,
+        "new_infections": 29
+    },
+    {
+        "S_no": 38997,
+        "I_no": 948,
+        "R_no": 55,
+        "new_infections": 27
+    },
+    {
+        "S_no": 38968,
+        "I_no": 972,
+        "R_no": 60,
+        "new_infections": 29
+    },
+    {
+        "S_no": 38929,
+        "I_no": 1007,
+        "R_no": 64,
+        "new_infections": 39
+    },
+    {
+        "S_no": 38900,
+        "I_no": 1033,
+        "R_no": 67,
+        "new_infections": 29
+    },
+    {
+        "S_no": 38851,
+        "I_no": 1079,
+        "R_no": 70,
         "new_infections": 49
     },
     {
-        "S_no": 37865,
-        "I_no": 2000,
-        "R_no": 135,
-        "new_infections": 50
+        "S_no": 38816,
+        "I_no": 1112,
+        "R_no": 72,
+        "new_infections": 35
     },
     {
-        "S_no": 37827,
-        "I_no": 2031,
-        "R_no": 142,
-        "new_infections": 38
-    },
-    {
-        "S_no": 37786,
-        "I_no": 2066,
-        "R_no": 148,
-        "new_infections": 41
-    },
-    {
-        "S_no": 37748,
-        "I_no": 2101,
-        "R_no": 151,
-        "new_infections": 38
-    },
-    {
-        "S_no": 37697,
-        "I_no": 2147,
-        "R_no": 156,
-        "new_infections": 51
-    },
-    {
-        "S_no": 37655,
-        "I_no": 2184,
-        "R_no": 161,
-        "new_infections": 42
-    },
-    {
-        "S_no": 37611,
-        "I_no": 2221,
-        "R_no": 168,
+        "S_no": 38772,
+        "I_no": 1153,
+        "R_no": 75,
         "new_infections": 44
     },
     {
-        "S_no": 37568,
-        "I_no": 2261,
-        "R_no": 171,
+        "S_no": 38734,
+        "I_no": 1187,
+        "R_no": 79,
+        "new_infections": 38
+    },
+    {
+        "S_no": 38712,
+        "I_no": 1207,
+        "R_no": 81,
+        "new_infections": 22
+    },
+    {
+        "S_no": 38682,
+        "I_no": 1234,
+        "R_no": 84,
+        "new_infections": 30
+    },
+    {
+        "S_no": 38656,
+        "I_no": 1257,
+        "R_no": 87,
+        "new_infections": 26
+    },
+    {
+        "S_no": 38622,
+        "I_no": 1289,
+        "R_no": 89,
+        "new_infections": 34
+    },
+    {
+        "S_no": 38584,
+        "I_no": 1324,
+        "R_no": 92,
+        "new_infections": 38
+    },
+    {
+        "S_no": 38544,
+        "I_no": 1361,
+        "R_no": 95,
+        "new_infections": 40
+    },
+    {
+        "S_no": 38512,
+        "I_no": 1388,
+        "R_no": 100,
+        "new_infections": 32
+    },
+    {
+        "S_no": 38480,
+        "I_no": 1414,
+        "R_no": 106,
+        "new_infections": 32
+    },
+    {
+        "S_no": 38455,
+        "I_no": 1437,
+        "R_no": 108,
+        "new_infections": 25
+    },
+    {
+        "S_no": 38412,
+        "I_no": 1476,
+        "R_no": 112,
         "new_infections": 43
     },
     {
-        "S_no": 37523,
-        "I_no": 2302,
-        "R_no": 175,
-        "new_infections": 45
+        "S_no": 38368,
+        "I_no": 1514,
+        "R_no": 118,
+        "new_infections": 44
     },
     {
-        "S_no": 37473,
-        "I_no": 2349,
-        "R_no": 178,
-        "new_infections": 50
+        "S_no": 38324,
+        "I_no": 1553,
+        "R_no": 123,
+        "new_infections": 44
     },
     {
-        "S_no": 37418,
-        "I_no": 2401,
-        "R_no": 181,
-        "new_infections": 55
+        "S_no": 38298,
+        "I_no": 1573,
+        "R_no": 129,
+        "new_infections": 26
     },
     {
-        "S_no": 37371,
-        "I_no": 2446,
-        "R_no": 183,
-        "new_infections": 47
-    },
-    {
-        "S_no": 37321,
-        "I_no": 2492,
-        "R_no": 187,
-        "new_infections": 50
-    },
-    {
-        "S_no": 37272,
-        "I_no": 2535,
-        "R_no": 193,
-        "new_infections": 49
-    },
-    {
-        "S_no": 37230,
-        "I_no": 2570,
-        "R_no": 200,
-        "new_infections": 42
-    },
-    {
-        "S_no": 37180,
-        "I_no": 2611,
-        "R_no": 209,
-        "new_infections": 50
-    },
-    {
-        "S_no": 37130,
-        "I_no": 2658,
-        "R_no": 212,
-        "new_infections": 50
-    },
-    {
-        "S_no": 37069,
-        "I_no": 2716,
-        "R_no": 215,
-        "new_infections": 61
-    },
-    {
-        "S_no": 37026,
-        "I_no": 2753,
-        "R_no": 221,
+        "S_no": 38255,
+        "I_no": 1612,
+        "R_no": 133,
         "new_infections": 43
     },
     {
-        "S_no": 36971,
-        "I_no": 2802,
-        "R_no": 227,
-        "new_infections": 55
-    },
-    {
-        "S_no": 36910,
-        "I_no": 2855,
-        "R_no": 235,
-        "new_infections": 61
-    },
-    {
-        "S_no": 36862,
-        "I_no": 2895,
-        "R_no": 243,
-        "new_infections": 48
-    },
-    {
-        "S_no": 36803,
-        "I_no": 2948,
-        "R_no": 249,
-        "new_infections": 59
-    },
-    {
-        "S_no": 36750,
-        "I_no": 2993,
-        "R_no": 257,
-        "new_infections": 53
-    },
-    {
-        "S_no": 36696,
-        "I_no": 3042,
-        "R_no": 262,
-        "new_infections": 54
-    },
-    {
-        "S_no": 36642,
-        "I_no": 3086,
-        "R_no": 272,
-        "new_infections": 54
-    },
-    {
-        "S_no": 36586,
-        "I_no": 3136,
-        "R_no": 278,
-        "new_infections": 56
-    },
-    {
-        "S_no": 36529,
-        "I_no": 3187,
-        "R_no": 284,
-        "new_infections": 57
-    },
-    {
-        "S_no": 36488,
-        "I_no": 3225,
-        "R_no": 287,
+        "S_no": 38214,
+        "I_no": 1650,
+        "R_no": 136,
         "new_infections": 41
     },
     {
-        "S_no": 36429,
-        "I_no": 3280,
-        "R_no": 291,
-        "new_infections": 59
+        "S_no": 38172,
+        "I_no": 1691,
+        "R_no": 137,
+        "new_infections": 42
     },
     {
-        "S_no": 36356,
-        "I_no": 3345,
-        "R_no": 299,
-        "new_infections": 73
+        "S_no": 38126,
+        "I_no": 1736,
+        "R_no": 138,
+        "new_infections": 46
     },
     {
-        "S_no": 36289,
-        "I_no": 3404,
-        "R_no": 307,
-        "new_infections": 67
-    },
-    {
-        "S_no": 36219,
-        "I_no": 3466,
-        "R_no": 315,
-        "new_infections": 70
-    },
-    {
-        "S_no": 36160,
-        "I_no": 3517,
-        "R_no": 323,
-        "new_infections": 59
-    },
-    {
-        "S_no": 36095,
-        "I_no": 3577,
-        "R_no": 328,
-        "new_infections": 65
-    },
-    {
-        "S_no": 36032,
-        "I_no": 3636,
-        "R_no": 332,
-        "new_infections": 63
-    },
-    {
-        "S_no": 35974,
-        "I_no": 3686,
-        "R_no": 340,
-        "new_infections": 58
-    },
-    {
-        "S_no": 35915,
-        "I_no": 3743,
-        "R_no": 342,
-        "new_infections": 59
-    },
-    {
-        "S_no": 35867,
-        "I_no": 3783,
-        "R_no": 350,
+        "S_no": 38078,
+        "I_no": 1782,
+        "R_no": 140,
         "new_infections": 48
     },
     {
-        "S_no": 35815,
-        "I_no": 3832,
-        "R_no": 353,
-        "new_infections": 52
+        "S_no": 38047,
+        "I_no": 1811,
+        "R_no": 142,
+        "new_infections": 31
     },
     {
-        "S_no": 35768,
-        "I_no": 3872,
-        "R_no": 360,
-        "new_infections": 47
+        "S_no": 38012,
+        "I_no": 1845,
+        "R_no": 143,
+        "new_infections": 35
     },
     {
-        "S_no": 35723,
-        "I_no": 3910,
-        "R_no": 367,
-        "new_infections": 45
+        "S_no": 37971,
+        "I_no": 1882,
+        "R_no": 147,
+        "new_infections": 41
     },
     {
-        "S_no": 35667,
-        "I_no": 3962,
-        "R_no": 371,
-        "new_infections": 56
+        "S_no": 37925,
+        "I_no": 1926,
+        "R_no": 149,
+        "new_infections": 46
     },
     {
-        "S_no": 35605,
-        "I_no": 4011,
-        "R_no": 384,
-        "new_infections": 62
+        "S_no": 37881,
+        "I_no": 1965,
+        "R_no": 154,
+        "new_infections": 44
     },
     {
-        "S_no": 35551,
-        "I_no": 4053,
-        "R_no": 396,
-        "new_infections": 54
+        "S_no": 37838,
+        "I_no": 2006,
+        "R_no": 156,
+        "new_infections": 43
     },
     {
-        "S_no": 35502,
-        "I_no": 4095,
-        "R_no": 403,
+        "S_no": 37789,
+        "I_no": 2049,
+        "R_no": 162,
         "new_infections": 49
     },
     {
-        "S_no": 35434,
-        "I_no": 4155,
-        "R_no": 411,
-        "new_infections": 68
+        "S_no": 37750,
+        "I_no": 2085,
+        "R_no": 165,
+        "new_infections": 39
     },
     {
-        "S_no": 35363,
-        "I_no": 4215,
-        "R_no": 422,
+        "S_no": 37717,
+        "I_no": 2113,
+        "R_no": 170,
+        "new_infections": 33
+    },
+    {
+        "S_no": 37673,
+        "I_no": 2154,
+        "R_no": 173,
+        "new_infections": 44
+    },
+    {
+        "S_no": 37629,
+        "I_no": 2195,
+        "R_no": 176,
+        "new_infections": 44
+    },
+    {
+        "S_no": 37582,
+        "I_no": 2241,
+        "R_no": 177,
+        "new_infections": 47
+    },
+    {
+        "S_no": 37534,
+        "I_no": 2288,
+        "R_no": 178,
+        "new_infections": 48
+    },
+    {
+        "S_no": 37486,
+        "I_no": 2330,
+        "R_no": 184,
+        "new_infections": 48
+    },
+    {
+        "S_no": 37437,
+        "I_no": 2376,
+        "R_no": 187,
+        "new_infections": 49
+    },
+    {
+        "S_no": 37387,
+        "I_no": 2420,
+        "R_no": 193,
+        "new_infections": 50
+    },
+    {
+        "S_no": 37338,
+        "I_no": 2466,
+        "R_no": 196,
+        "new_infections": 49
+    },
+    {
+        "S_no": 37267,
+        "I_no": 2531,
+        "R_no": 202,
         "new_infections": 71
     },
     {
-        "S_no": 35301,
-        "I_no": 4269,
-        "R_no": 430,
-        "new_infections": 62
+        "S_no": 37206,
+        "I_no": 2589,
+        "R_no": 205,
+        "new_infections": 61
     },
     {
-        "S_no": 35238,
-        "I_no": 4326,
-        "R_no": 436,
-        "new_infections": 63
+        "S_no": 37160,
+        "I_no": 2630,
+        "R_no": 210,
+        "new_infections": 46
     },
     {
-        "S_no": 35166,
-        "I_no": 4382,
-        "R_no": 452,
-        "new_infections": 72
+        "S_no": 37105,
+        "I_no": 2680,
+        "R_no": 215,
+        "new_infections": 55
     },
     {
-        "S_no": 35093,
-        "I_no": 4443,
-        "R_no": 464,
-        "new_infections": 73
+        "S_no": 37058,
+        "I_no": 2719,
+        "R_no": 223,
+        "new_infections": 47
     },
     {
-        "S_no": 35031,
-        "I_no": 4497,
-        "R_no": 472,
-        "new_infections": 62
+        "S_no": 37008,
+        "I_no": 2767,
+        "R_no": 225,
+        "new_infections": 50
     },
     {
-        "S_no": 34967,
-        "I_no": 4553,
-        "R_no": 480,
-        "new_infections": 64
+        "S_no": 36954,
+        "I_no": 2814,
+        "R_no": 232,
+        "new_infections": 54
     },
     {
-        "S_no": 34903,
-        "I_no": 4605,
-        "R_no": 492,
-        "new_infections": 64
+        "S_no": 36899,
+        "I_no": 2866,
+        "R_no": 235,
+        "new_infections": 55
     },
     {
-        "S_no": 34830,
-        "I_no": 4664,
-        "R_no": 506,
-        "new_infections": 73
-    },
-    {
-        "S_no": 34778,
-        "I_no": 4708,
-        "R_no": 514,
+        "S_no": 36847,
+        "I_no": 2912,
+        "R_no": 241,
         "new_infections": 52
     },
     {
-        "S_no": 34718,
-        "I_no": 4759,
-        "R_no": 523,
+        "S_no": 36787,
+        "I_no": 2965,
+        "R_no": 248,
         "new_infections": 60
     },
     {
-        "S_no": 34656,
-        "I_no": 4805,
-        "R_no": 539,
-        "new_infections": 62
+        "S_no": 36742,
+        "I_no": 3007,
+        "R_no": 251,
+        "new_infections": 45
     },
     {
-        "S_no": 34578,
-        "I_no": 4865,
-        "R_no": 557,
-        "new_infections": 78
+        "S_no": 36691,
+        "I_no": 3052,
+        "R_no": 257,
+        "new_infections": 51
     },
     {
-        "S_no": 34500,
-        "I_no": 4935,
-        "R_no": 565,
-        "new_infections": 78
+        "S_no": 36632,
+        "I_no": 3105,
+        "R_no": 263,
+        "new_infections": 59
     },
     {
-        "S_no": 34435,
-        "I_no": 4989,
-        "R_no": 576,
-        "new_infections": 65
-    },
-    {
-        "S_no": 34361,
-        "I_no": 5059,
-        "R_no": 580,
-        "new_infections": 74
-    },
-    {
-        "S_no": 34291,
-        "I_no": 5119,
-        "R_no": 590,
-        "new_infections": 70
-    },
-    {
-        "S_no": 34214,
-        "I_no": 5189,
-        "R_no": 597,
-        "new_infections": 77
-    },
-    {
-        "S_no": 34149,
-        "I_no": 5243,
-        "R_no": 608,
-        "new_infections": 65
-    },
-    {
-        "S_no": 34078,
-        "I_no": 5302,
-        "R_no": 620,
-        "new_infections": 71
-    },
-    {
-        "S_no": 34015,
-        "I_no": 5352,
-        "R_no": 633,
-        "new_infections": 63
-    },
-    {
-        "S_no": 33955,
-        "I_no": 5406,
-        "R_no": 639,
-        "new_infections": 60
-    },
-    {
-        "S_no": 33886,
-        "I_no": 5461,
-        "R_no": 653,
+        "S_no": 36563,
+        "I_no": 3166,
+        "R_no": 271,
         "new_infections": 69
     },
     {
-        "S_no": 33812,
-        "I_no": 5528,
-        "R_no": 660,
-        "new_infections": 74
+        "S_no": 36517,
+        "I_no": 3209,
+        "R_no": 274,
+        "new_infections": 46
     },
     {
-        "S_no": 33732,
-        "I_no": 5597,
-        "R_no": 671,
-        "new_infections": 80
+        "S_no": 36461,
+        "I_no": 3258,
+        "R_no": 281,
+        "new_infections": 56
     },
     {
-        "S_no": 33631,
-        "I_no": 5685,
-        "R_no": 684,
-        "new_infections": 101
+        "S_no": 36415,
+        "I_no": 3295,
+        "R_no": 290,
+        "new_infections": 46
     },
     {
-        "S_no": 33561,
-        "I_no": 5746,
-        "R_no": 693,
+        "S_no": 36369,
+        "I_no": 3334,
+        "R_no": 297,
+        "new_infections": 46
+    },
+    {
+        "S_no": 36320,
+        "I_no": 3376,
+        "R_no": 304,
+        "new_infections": 49
+    },
+    {
+        "S_no": 36262,
+        "I_no": 3432,
+        "R_no": 306,
+        "new_infections": 58
+    },
+    {
+        "S_no": 36212,
+        "I_no": 3473,
+        "R_no": 315,
+        "new_infections": 50
+    },
+    {
+        "S_no": 36163,
+        "I_no": 3514,
+        "R_no": 323,
+        "new_infections": 49
+    },
+    {
+        "S_no": 36102,
+        "I_no": 3567,
+        "R_no": 331,
+        "new_infections": 61
+    },
+    {
+        "S_no": 36048,
+        "I_no": 3615,
+        "R_no": 337,
+        "new_infections": 54
+    },
+    {
+        "S_no": 35996,
+        "I_no": 3663,
+        "R_no": 341,
+        "new_infections": 52
+    },
+    {
+        "S_no": 35944,
+        "I_no": 3704,
+        "R_no": 352,
+        "new_infections": 52
+    },
+    {
+        "S_no": 35899,
+        "I_no": 3742,
+        "R_no": 359,
+        "new_infections": 45
+    },
+    {
+        "S_no": 35850,
+        "I_no": 3785,
+        "R_no": 365,
+        "new_infections": 49
+    },
+    {
+        "S_no": 35790,
+        "I_no": 3838,
+        "R_no": 372,
+        "new_infections": 60
+    },
+    {
+        "S_no": 35723,
+        "I_no": 3900,
+        "R_no": 377,
+        "new_infections": 67
+    },
+    {
+        "S_no": 35668,
+        "I_no": 3949,
+        "R_no": 383,
+        "new_infections": 55
+    },
+    {
+        "S_no": 35601,
+        "I_no": 4012,
+        "R_no": 387,
+        "new_infections": 67
+    },
+    {
+        "S_no": 35541,
+        "I_no": 4067,
+        "R_no": 392,
+        "new_infections": 60
+    },
+    {
+        "S_no": 35481,
+        "I_no": 4121,
+        "R_no": 398,
+        "new_infections": 60
+    },
+    {
+        "S_no": 35411,
+        "I_no": 4179,
+        "R_no": 410,
         "new_infections": 70
     },
     {
-        "S_no": 33474,
-        "I_no": 5820,
-        "R_no": 706,
-        "new_infections": 87
-    },
-    {
-        "S_no": 33391,
-        "I_no": 5885,
-        "R_no": 724,
-        "new_infections": 83
-    },
-    {
-        "S_no": 33323,
-        "I_no": 5939,
-        "R_no": 738,
+        "S_no": 35343,
+        "I_no": 4237,
+        "R_no": 420,
         "new_infections": 68
     },
     {
-        "S_no": 33263,
-        "I_no": 5989,
-        "R_no": 748,
+        "S_no": 35277,
+        "I_no": 4297,
+        "R_no": 426,
+        "new_infections": 66
+    },
+    {
+        "S_no": 35217,
+        "I_no": 4348,
+        "R_no": 435,
         "new_infections": 60
     },
     {
-        "S_no": 33177,
-        "I_no": 6071,
-        "R_no": 752,
-        "new_infections": 86
-    },
-    {
-        "S_no": 33093,
-        "I_no": 6137,
-        "R_no": 770,
-        "new_infections": 84
-    },
-    {
-        "S_no": 33025,
-        "I_no": 6186,
-        "R_no": 789,
-        "new_infections": 68
-    },
-    {
-        "S_no": 32934,
-        "I_no": 6265,
-        "R_no": 801,
-        "new_infections": 91
-    },
-    {
-        "S_no": 32874,
-        "I_no": 6313,
-        "R_no": 813,
-        "new_infections": 60
-    },
-    {
-        "S_no": 32787,
-        "I_no": 6392,
-        "R_no": 821,
-        "new_infections": 87
-    },
-    {
-        "S_no": 32715,
-        "I_no": 6453,
-        "R_no": 832,
-        "new_infections": 72
-    },
-    {
-        "S_no": 32609,
-        "I_no": 6547,
-        "R_no": 844,
-        "new_infections": 106
-    },
-    {
-        "S_no": 32529,
-        "I_no": 6616,
-        "R_no": 855,
-        "new_infections": 80
-    },
-    {
-        "S_no": 32457,
-        "I_no": 6671,
-        "R_no": 872,
-        "new_infections": 72
-    },
-    {
-        "S_no": 32383,
-        "I_no": 6731,
-        "R_no": 886,
-        "new_infections": 74
-    },
-    {
-        "S_no": 32289,
-        "I_no": 6815,
-        "R_no": 896,
-        "new_infections": 94
-    },
-    {
-        "S_no": 32194,
-        "I_no": 6897,
-        "R_no": 909,
-        "new_infections": 95
-    },
-    {
-        "S_no": 32106,
-        "I_no": 6965,
-        "R_no": 929,
-        "new_infections": 88
-    },
-    {
-        "S_no": 32015,
-        "I_no": 7041,
-        "R_no": 944,
-        "new_infections": 91
-    },
-    {
-        "S_no": 31931,
-        "I_no": 7111,
-        "R_no": 958,
-        "new_infections": 84
-    },
-    {
-        "S_no": 31828,
-        "I_no": 7203,
-        "R_no": 969,
-        "new_infections": 103
-    },
-    {
-        "S_no": 31723,
-        "I_no": 7291,
-        "R_no": 986,
-        "new_infections": 105
-    },
-    {
-        "S_no": 31652,
-        "I_no": 7350,
-        "R_no": 998,
-        "new_infections": 71
-    },
-    {
-        "S_no": 31581,
-        "I_no": 7409,
-        "R_no": 1010,
-        "new_infections": 71
-    },
-    {
-        "S_no": 31480,
-        "I_no": 7494,
-        "R_no": 1026,
-        "new_infections": 101
-    },
-    {
-        "S_no": 31392,
-        "I_no": 7565,
-        "R_no": 1043,
-        "new_infections": 88
-    },
-    {
-        "S_no": 31315,
-        "I_no": 7627,
-        "R_no": 1058,
-        "new_infections": 77
-    },
-    {
-        "S_no": 31243,
-        "I_no": 7686,
-        "R_no": 1071,
-        "new_infections": 72
-    },
-    {
-        "S_no": 31154,
-        "I_no": 7758,
-        "R_no": 1088,
-        "new_infections": 89
-    },
-    {
-        "S_no": 31071,
-        "I_no": 7829,
-        "R_no": 1100,
-        "new_infections": 83
-    },
-    {
-        "S_no": 30979,
-        "I_no": 7907,
-        "R_no": 1114,
-        "new_infections": 92
-    },
-    {
-        "S_no": 30882,
-        "I_no": 7993,
-        "R_no": 1125,
-        "new_infections": 97
-    },
-    {
-        "S_no": 30790,
-        "I_no": 8070,
-        "R_no": 1140,
-        "new_infections": 92
-    },
-    {
-        "S_no": 30692,
-        "I_no": 8150,
-        "R_no": 1158,
-        "new_infections": 98
-    },
-    {
-        "S_no": 30595,
-        "I_no": 8236,
-        "R_no": 1169,
-        "new_infections": 97
-    },
-    {
-        "S_no": 30495,
-        "I_no": 8316,
-        "R_no": 1189,
-        "new_infections": 100
-    },
-    {
-        "S_no": 30414,
-        "I_no": 8377,
-        "R_no": 1209,
-        "new_infections": 81
-    },
-    {
-        "S_no": 30316,
-        "I_no": 8451,
-        "R_no": 1233,
-        "new_infections": 98
-    },
-    {
-        "S_no": 30232,
-        "I_no": 8509,
-        "R_no": 1259,
-        "new_infections": 84
-    },
-    {
-        "S_no": 30140,
-        "I_no": 8583,
-        "R_no": 1277,
-        "new_infections": 92
-    },
-    {
-        "S_no": 30058,
-        "I_no": 8646,
-        "R_no": 1296,
+        "S_no": 35135,
+        "I_no": 4419,
+        "R_no": 446,
         "new_infections": 82
     },
     {
-        "S_no": 29963,
-        "I_no": 8729,
-        "R_no": 1308,
-        "new_infections": 95
+        "S_no": 35061,
+        "I_no": 4484,
+        "R_no": 455,
+        "new_infections": 74
     },
     {
-        "S_no": 29857,
-        "I_no": 8814,
-        "R_no": 1329,
-        "new_infections": 106
+        "S_no": 34999,
+        "I_no": 4536,
+        "R_no": 465,
+        "new_infections": 62
     },
     {
-        "S_no": 29755,
-        "I_no": 8899,
-        "R_no": 1346,
-        "new_infections": 102
+        "S_no": 34931,
+        "I_no": 4597,
+        "R_no": 472,
+        "new_infections": 68
     },
     {
-        "S_no": 29674,
-        "I_no": 8964,
-        "R_no": 1362,
-        "new_infections": 81
+        "S_no": 34857,
+        "I_no": 4663,
+        "R_no": 480,
+        "new_infections": 74
     },
     {
-        "S_no": 29596,
-        "I_no": 9019,
-        "R_no": 1385,
-        "new_infections": 78
+        "S_no": 34787,
+        "I_no": 4720,
+        "R_no": 493,
+        "new_infections": 70
     },
     {
-        "S_no": 29511,
-        "I_no": 9084,
-        "R_no": 1405,
+        "S_no": 34719,
+        "I_no": 4780,
+        "R_no": 501,
+        "new_infections": 68
+    },
+    {
+        "S_no": 34631,
+        "I_no": 4855,
+        "R_no": 514,
+        "new_infections": 88
+    },
+    {
+        "S_no": 34554,
+        "I_no": 4921,
+        "R_no": 525,
+        "new_infections": 77
+    },
+    {
+        "S_no": 34469,
+        "I_no": 5005,
+        "R_no": 526,
         "new_infections": 85
     },
     {
-        "S_no": 29403,
-        "I_no": 9171,
-        "R_no": 1426,
-        "new_infections": 108
+        "S_no": 34395,
+        "I_no": 5072,
+        "R_no": 533,
+        "new_infections": 74
     },
     {
-        "S_no": 29304,
-        "I_no": 9254,
-        "R_no": 1442,
-        "new_infections": 99
+        "S_no": 34310,
+        "I_no": 5146,
+        "R_no": 544,
+        "new_infections": 85
     },
     {
-        "S_no": 29185,
-        "I_no": 9356,
-        "R_no": 1459,
-        "new_infections": 119
+        "S_no": 34234,
+        "I_no": 5212,
+        "R_no": 554,
+        "new_infections": 76
     },
     {
-        "S_no": 29084,
-        "I_no": 9440,
-        "R_no": 1476,
-        "new_infections": 101
-    },
-    {
-        "S_no": 28979,
-        "I_no": 9523,
-        "R_no": 1498,
-        "new_infections": 105
-    },
-    {
-        "S_no": 28896,
-        "I_no": 9584,
-        "R_no": 1520,
+        "S_no": 34151,
+        "I_no": 5287,
+        "R_no": 562,
         "new_infections": 83
     },
     {
-        "S_no": 28804,
-        "I_no": 9661,
-        "R_no": 1535,
-        "new_infections": 92
+        "S_no": 34075,
+        "I_no": 5356,
+        "R_no": 569,
+        "new_infections": 76
     },
     {
-        "S_no": 28701,
-        "I_no": 9744,
-        "R_no": 1555,
-        "new_infections": 103
+        "S_no": 34015,
+        "I_no": 5408,
+        "R_no": 577,
+        "new_infections": 60
     },
     {
-        "S_no": 28614,
-        "I_no": 9808,
-        "R_no": 1578,
-        "new_infections": 87
+        "S_no": 33957,
+        "I_no": 5450,
+        "R_no": 593,
+        "new_infections": 58
     },
     {
-        "S_no": 28512,
-        "I_no": 9892,
-        "R_no": 1596,
-        "new_infections": 102
+        "S_no": 33890,
+        "I_no": 5507,
+        "R_no": 603,
+        "new_infections": 67
     },
     {
-        "S_no": 28414,
-        "I_no": 9970,
-        "R_no": 1616,
-        "new_infections": 98
+        "S_no": 33810,
+        "I_no": 5577,
+        "R_no": 613,
+        "new_infections": 80
     },
     {
-        "S_no": 28318,
-        "I_no": 10045,
-        "R_no": 1637,
-        "new_infections": 96
-    },
-    {
-        "S_no": 28213,
-        "I_no": 10135,
-        "R_no": 1652,
-        "new_infections": 105
-    },
-    {
-        "S_no": 28116,
-        "I_no": 10216,
-        "R_no": 1668,
-        "new_infections": 97
-    },
-    {
-        "S_no": 28006,
-        "I_no": 10315,
-        "R_no": 1679,
-        "new_infections": 110
-    },
-    {
-        "S_no": 27891,
-        "I_no": 10404,
-        "R_no": 1705,
-        "new_infections": 115
-    },
-    {
-        "S_no": 27784,
-        "I_no": 10495,
-        "R_no": 1721,
-        "new_infections": 107
-    },
-    {
-        "S_no": 27662,
-        "I_no": 10600,
-        "R_no": 1738,
-        "new_infections": 122
-    },
-    {
-        "S_no": 27568,
-        "I_no": 10670,
-        "R_no": 1762,
+        "S_no": 33716,
+        "I_no": 5659,
+        "R_no": 625,
         "new_infections": 94
     },
     {
-        "S_no": 27453,
-        "I_no": 10767,
-        "R_no": 1780,
-        "new_infections": 115
+        "S_no": 33641,
+        "I_no": 5720,
+        "R_no": 639,
+        "new_infections": 75
     },
     {
-        "S_no": 27357,
-        "I_no": 10832,
-        "R_no": 1811,
+        "S_no": 33566,
+        "I_no": 5780,
+        "R_no": 654,
+        "new_infections": 75
+    },
+    {
+        "S_no": 33492,
+        "I_no": 5838,
+        "R_no": 670,
+        "new_infections": 74
+    },
+    {
+        "S_no": 33417,
+        "I_no": 5905,
+        "R_no": 678,
+        "new_infections": 75
+    },
+    {
+        "S_no": 33341,
+        "I_no": 5964,
+        "R_no": 695,
+        "new_infections": 76
+    },
+    {
+        "S_no": 33255,
+        "I_no": 6043,
+        "R_no": 702,
+        "new_infections": 86
+    },
+    {
+        "S_no": 33179,
+        "I_no": 6101,
+        "R_no": 720,
+        "new_infections": 76
+    },
+    {
+        "S_no": 33100,
+        "I_no": 6165,
+        "R_no": 735,
+        "new_infections": 79
+    },
+    {
+        "S_no": 33004,
+        "I_no": 6243,
+        "R_no": 753,
         "new_infections": 96
     },
     {
-        "S_no": 27249,
-        "I_no": 10916,
-        "R_no": 1835,
-        "new_infections": 108
+        "S_no": 32904,
+        "I_no": 6336,
+        "R_no": 760,
+        "new_infections": 100
     },
     {
-        "S_no": 27152,
-        "I_no": 10991,
-        "R_no": 1857,
-        "new_infections": 97
+        "S_no": 32817,
+        "I_no": 6412,
+        "R_no": 771,
+        "new_infections": 87
     },
     {
-        "S_no": 27049,
-        "I_no": 11071,
-        "R_no": 1880,
-        "new_infections": 103
+        "S_no": 32743,
+        "I_no": 6474,
+        "R_no": 783,
+        "new_infections": 74
     },
     {
-        "S_no": 26944,
-        "I_no": 11147,
-        "R_no": 1909,
-        "new_infections": 105
+        "S_no": 32675,
+        "I_no": 6534,
+        "R_no": 791,
+        "new_infections": 68
     },
     {
-        "S_no": 26833,
-        "I_no": 11234,
-        "R_no": 1933,
-        "new_infections": 111
+        "S_no": 32588,
+        "I_no": 6608,
+        "R_no": 804,
+        "new_infections": 87
     },
     {
-        "S_no": 26714,
-        "I_no": 11329,
-        "R_no": 1957,
-        "new_infections": 119
+        "S_no": 32510,
+        "I_no": 6674,
+        "R_no": 816,
+        "new_infections": 78
     },
     {
-        "S_no": 26610,
-        "I_no": 11416,
-        "R_no": 1974,
-        "new_infections": 104
+        "S_no": 32414,
+        "I_no": 6760,
+        "R_no": 826,
+        "new_infections": 96
     },
     {
-        "S_no": 26502,
-        "I_no": 11503,
-        "R_no": 1995,
-        "new_infections": 108
+        "S_no": 32346,
+        "I_no": 6818,
+        "R_no": 836,
+        "new_infections": 68
     },
     {
-        "S_no": 26395,
-        "I_no": 11591,
-        "R_no": 2014,
-        "new_infections": 107
+        "S_no": 32261,
+        "I_no": 6886,
+        "R_no": 853,
+        "new_infections": 85
     },
     {
-        "S_no": 26300,
-        "I_no": 11656,
-        "R_no": 2044,
-        "new_infections": 95
+        "S_no": 32189,
+        "I_no": 6946,
+        "R_no": 865,
+        "new_infections": 72
     },
     {
-        "S_no": 26205,
-        "I_no": 11727,
-        "R_no": 2068,
-        "new_infections": 95
+        "S_no": 32108,
+        "I_no": 7008,
+        "R_no": 884,
+        "new_infections": 81
     },
     {
-        "S_no": 26104,
-        "I_no": 11808,
-        "R_no": 2088,
-        "new_infections": 101
+        "S_no": 32015,
+        "I_no": 7088,
+        "R_no": 897,
+        "new_infections": 93
     },
     {
-        "S_no": 25997,
-        "I_no": 11891,
-        "R_no": 2112,
-        "new_infections": 107
+        "S_no": 31940,
+        "I_no": 7151,
+        "R_no": 909,
+        "new_infections": 75
     },
     {
-        "S_no": 25894,
-        "I_no": 11968,
-        "R_no": 2138,
-        "new_infections": 103
+        "S_no": 31851,
+        "I_no": 7228,
+        "R_no": 921,
+        "new_infections": 89
     },
     {
-        "S_no": 25789,
-        "I_no": 12050,
-        "R_no": 2161,
-        "new_infections": 105
+        "S_no": 31758,
+        "I_no": 7309,
+        "R_no": 933,
+        "new_infections": 93
     },
     {
-        "S_no": 25671,
-        "I_no": 12146,
-        "R_no": 2183,
-        "new_infections": 118
+        "S_no": 31668,
+        "I_no": 7387,
+        "R_no": 945,
+        "new_infections": 90
     },
     {
-        "S_no": 25561,
-        "I_no": 12227,
-        "R_no": 2212,
-        "new_infections": 110
+        "S_no": 31589,
+        "I_no": 7456,
+        "R_no": 955,
+        "new_infections": 79
     },
     {
-        "S_no": 25448,
-        "I_no": 12318,
-        "R_no": 2234,
-        "new_infections": 113
+        "S_no": 31509,
+        "I_no": 7527,
+        "R_no": 964,
+        "new_infections": 80
     },
     {
-        "S_no": 25319,
-        "I_no": 12419,
-        "R_no": 2262,
-        "new_infections": 129
+        "S_no": 31425,
+        "I_no": 7604,
+        "R_no": 971,
+        "new_infections": 84
     },
     {
-        "S_no": 25221,
-        "I_no": 12493,
-        "R_no": 2286,
-        "new_infections": 98
+        "S_no": 31335,
+        "I_no": 7679,
+        "R_no": 986,
+        "new_infections": 90
     },
     {
-        "S_no": 25116,
-        "I_no": 12573,
-        "R_no": 2311,
-        "new_infections": 105
+        "S_no": 31255,
+        "I_no": 7746,
+        "R_no": 999,
+        "new_infections": 80
     },
     {
-        "S_no": 25003,
-        "I_no": 12658,
-        "R_no": 2339,
-        "new_infections": 113
+        "S_no": 31163,
+        "I_no": 7832,
+        "R_no": 1005,
+        "new_infections": 92
     },
     {
-        "S_no": 24901,
-        "I_no": 12733,
-        "R_no": 2366,
+        "S_no": 31063,
+        "I_no": 7914,
+        "R_no": 1023,
+        "new_infections": 100
+    },
+    {
+        "S_no": 30964,
+        "I_no": 8000,
+        "R_no": 1036,
+        "new_infections": 99
+    },
+    {
+        "S_no": 30878,
+        "I_no": 8078,
+        "R_no": 1044,
+        "new_infections": 86
+    },
+    {
+        "S_no": 30797,
+        "I_no": 8143,
+        "R_no": 1060,
+        "new_infections": 81
+    },
+    {
+        "S_no": 30709,
+        "I_no": 8217,
+        "R_no": 1074,
+        "new_infections": 88
+    },
+    {
+        "S_no": 30632,
+        "I_no": 8277,
+        "R_no": 1091,
+        "new_infections": 77
+    },
+    {
+        "S_no": 30542,
+        "I_no": 8349,
+        "R_no": 1109,
+        "new_infections": 90
+    },
+    {
+        "S_no": 30453,
+        "I_no": 8423,
+        "R_no": 1124,
+        "new_infections": 89
+    },
+    {
+        "S_no": 30347,
+        "I_no": 8507,
+        "R_no": 1146,
+        "new_infections": 106
+    },
+    {
+        "S_no": 30258,
+        "I_no": 8579,
+        "R_no": 1163,
+        "new_infections": 89
+    },
+    {
+        "S_no": 30156,
+        "I_no": 8662,
+        "R_no": 1182,
         "new_infections": 102
     },
     {
-        "S_no": 24783,
-        "I_no": 12827,
-        "R_no": 2390,
-        "new_infections": 118
+        "S_no": 30054,
+        "I_no": 8749,
+        "R_no": 1197,
+        "new_infections": 102
     },
     {
-        "S_no": 24659,
-        "I_no": 12925,
-        "R_no": 2416,
-        "new_infections": 124
+        "S_no": 29952,
+        "I_no": 8835,
+        "R_no": 1213,
+        "new_infections": 102
     },
     {
-        "S_no": 24541,
-        "I_no": 13016,
-        "R_no": 2443,
-        "new_infections": 118
+        "S_no": 29848,
+        "I_no": 8923,
+        "R_no": 1229,
+        "new_infections": 104
     },
     {
-        "S_no": 24421,
-        "I_no": 13098,
-        "R_no": 2481,
-        "new_infections": 120
+        "S_no": 29751,
+        "I_no": 8997,
+        "R_no": 1252,
+        "new_infections": 97
     },
     {
-        "S_no": 24289,
-        "I_no": 13195,
-        "R_no": 2516,
-        "new_infections": 132
+        "S_no": 29654,
+        "I_no": 9075,
+        "R_no": 1271,
+        "new_infections": 97
     },
     {
-        "S_no": 24173,
-        "I_no": 13286,
-        "R_no": 2541,
-        "new_infections": 116
-    },
-    {
-        "S_no": 24050,
-        "I_no": 13377,
-        "R_no": 2573,
-        "new_infections": 123
-    },
-    {
-        "S_no": 23938,
-        "I_no": 13464,
-        "R_no": 2598,
-        "new_infections": 112
-    },
-    {
-        "S_no": 23813,
-        "I_no": 13562,
-        "R_no": 2625,
-        "new_infections": 125
-    },
-    {
-        "S_no": 23691,
-        "I_no": 13661,
-        "R_no": 2648,
-        "new_infections": 122
-    },
-    {
-        "S_no": 23576,
-        "I_no": 13757,
-        "R_no": 2667,
-        "new_infections": 115
-    },
-    {
-        "S_no": 23435,
-        "I_no": 13868,
-        "R_no": 2697,
-        "new_infections": 141
-    },
-    {
-        "S_no": 23311,
-        "I_no": 13963,
-        "R_no": 2726,
-        "new_infections": 124
-    },
-    {
-        "S_no": 23160,
-        "I_no": 14081,
-        "R_no": 2759,
-        "new_infections": 151
-    },
-    {
-        "S_no": 23014,
-        "I_no": 14201,
-        "R_no": 2785,
-        "new_infections": 146
-    },
-    {
-        "S_no": 22891,
-        "I_no": 14291,
-        "R_no": 2818,
-        "new_infections": 123
-    },
-    {
-        "S_no": 22756,
-        "I_no": 14407,
-        "R_no": 2837,
-        "new_infections": 135
-    },
-    {
-        "S_no": 22645,
-        "I_no": 14489,
-        "R_no": 2866,
-        "new_infections": 111
-    },
-    {
-        "S_no": 22510,
-        "I_no": 14598,
-        "R_no": 2892,
-        "new_infections": 135
-    },
-    {
-        "S_no": 22372,
-        "I_no": 14699,
-        "R_no": 2929,
-        "new_infections": 138
-    },
-    {
-        "S_no": 22254,
-        "I_no": 14784,
-        "R_no": 2962,
-        "new_infections": 118
-    },
-    {
-        "S_no": 22121,
-        "I_no": 14884,
-        "R_no": 2995,
-        "new_infections": 133
-    },
-    {
-        "S_no": 21974,
-        "I_no": 15004,
-        "R_no": 3022,
-        "new_infections": 147
-    },
-    {
-        "S_no": 21839,
-        "I_no": 15105,
-        "R_no": 3056,
-        "new_infections": 135
-    },
-    {
-        "S_no": 21717,
-        "I_no": 15199,
-        "R_no": 3084,
-        "new_infections": 122
-    },
-    {
-        "S_no": 21579,
-        "I_no": 15311,
-        "R_no": 3110,
-        "new_infections": 138
-    },
-    {
-        "S_no": 21445,
-        "I_no": 15414,
-        "R_no": 3141,
-        "new_infections": 134
-    },
-    {
-        "S_no": 21318,
-        "I_no": 15510,
-        "R_no": 3172,
-        "new_infections": 127
-    },
-    {
-        "S_no": 21210,
-        "I_no": 15590,
-        "R_no": 3200,
+        "S_no": 29546,
+        "I_no": 9172,
+        "R_no": 1282,
         "new_infections": 108
     },
     {
-        "S_no": 21081,
-        "I_no": 15680,
-        "R_no": 3239,
+        "S_no": 29426,
+        "I_no": 9274,
+        "R_no": 1300,
+        "new_infections": 120
+    },
+    {
+        "S_no": 29335,
+        "I_no": 9340,
+        "R_no": 1325,
+        "new_infections": 91
+    },
+    {
+        "S_no": 29251,
+        "I_no": 9408,
+        "R_no": 1341,
+        "new_infections": 84
+    },
+    {
+        "S_no": 29151,
+        "I_no": 9496,
+        "R_no": 1353,
+        "new_infections": 100
+    },
+    {
+        "S_no": 29048,
+        "I_no": 9581,
+        "R_no": 1371,
+        "new_infections": 103
+    },
+    {
+        "S_no": 28942,
+        "I_no": 9673,
+        "R_no": 1385,
+        "new_infections": 106
+    },
+    {
+        "S_no": 28827,
+        "I_no": 9773,
+        "R_no": 1400,
+        "new_infections": 115
+    },
+    {
+        "S_no": 28727,
+        "I_no": 9850,
+        "R_no": 1423,
+        "new_infections": 100
+    },
+    {
+        "S_no": 28625,
+        "I_no": 9935,
+        "R_no": 1440,
+        "new_infections": 102
+    },
+    {
+        "S_no": 28518,
+        "I_no": 10025,
+        "R_no": 1457,
+        "new_infections": 107
+    },
+    {
+        "S_no": 28406,
+        "I_no": 10120,
+        "R_no": 1474,
+        "new_infections": 112
+    },
+    {
+        "S_no": 28297,
+        "I_no": 10205,
+        "R_no": 1498,
+        "new_infections": 109
+    },
+    {
+        "S_no": 28207,
+        "I_no": 10275,
+        "R_no": 1518,
+        "new_infections": 90
+    },
+    {
+        "S_no": 28100,
+        "I_no": 10361,
+        "R_no": 1539,
+        "new_infections": 107
+    },
+    {
+        "S_no": 28007,
+        "I_no": 10438,
+        "R_no": 1555,
+        "new_infections": 93
+    },
+    {
+        "S_no": 27906,
+        "I_no": 10513,
+        "R_no": 1581,
+        "new_infections": 101
+    },
+    {
+        "S_no": 27810,
+        "I_no": 10583,
+        "R_no": 1607,
+        "new_infections": 96
+    },
+    {
+        "S_no": 27711,
+        "I_no": 10665,
+        "R_no": 1624,
+        "new_infections": 99
+    },
+    {
+        "S_no": 27604,
+        "I_no": 10744,
+        "R_no": 1652,
+        "new_infections": 107
+    },
+    {
+        "S_no": 27488,
+        "I_no": 10838,
+        "R_no": 1674,
+        "new_infections": 116
+    },
+    {
+        "S_no": 27392,
+        "I_no": 10918,
+        "R_no": 1690,
+        "new_infections": 96
+    },
+    {
+        "S_no": 27287,
+        "I_no": 11002,
+        "R_no": 1711,
+        "new_infections": 105
+    },
+    {
+        "S_no": 27178,
+        "I_no": 11097,
+        "R_no": 1725,
+        "new_infections": 109
+    },
+    {
+        "S_no": 27069,
+        "I_no": 11193,
+        "R_no": 1738,
+        "new_infections": 109
+    },
+    {
+        "S_no": 26955,
+        "I_no": 11290,
+        "R_no": 1755,
+        "new_infections": 114
+    },
+    {
+        "S_no": 26837,
+        "I_no": 11383,
+        "R_no": 1780,
+        "new_infections": 118
+    },
+    {
+        "S_no": 26708,
+        "I_no": 11476,
+        "R_no": 1816,
         "new_infections": 129
     },
     {
-        "S_no": 20958,
-        "I_no": 15776,
-        "R_no": 3266,
-        "new_infections": 123
+        "S_no": 26605,
+        "I_no": 11549,
+        "R_no": 1846,
+        "new_infections": 103
     },
     {
-        "S_no": 20839,
-        "I_no": 15860,
-        "R_no": 3301,
+        "S_no": 26478,
+        "I_no": 11650,
+        "R_no": 1872,
+        "new_infections": 127
+    },
+    {
+        "S_no": 26359,
+        "I_no": 11750,
+        "R_no": 1891,
         "new_infections": 119
     },
     {
-        "S_no": 20712,
-        "I_no": 15950,
-        "R_no": 3338,
+        "S_no": 26249,
+        "I_no": 11836,
+        "R_no": 1915,
+        "new_infections": 110
+    },
+    {
+        "S_no": 26125,
+        "I_no": 11939,
+        "R_no": 1936,
+        "new_infections": 124
+    },
+    {
+        "S_no": 26030,
+        "I_no": 12006,
+        "R_no": 1964,
+        "new_infections": 95
+    },
+    {
+        "S_no": 25913,
+        "I_no": 12099,
+        "R_no": 1988,
+        "new_infections": 117
+    },
+    {
+        "S_no": 25801,
+        "I_no": 12187,
+        "R_no": 2012,
+        "new_infections": 112
+    },
+    {
+        "S_no": 25672,
+        "I_no": 12293,
+        "R_no": 2035,
+        "new_infections": 129
+    },
+    {
+        "S_no": 25550,
+        "I_no": 12385,
+        "R_no": 2065,
+        "new_infections": 122
+    },
+    {
+        "S_no": 25442,
+        "I_no": 12469,
+        "R_no": 2089,
+        "new_infections": 108
+    },
+    {
+        "S_no": 25312,
+        "I_no": 12576,
+        "R_no": 2112,
+        "new_infections": 130
+    },
+    {
+        "S_no": 25208,
+        "I_no": 12650,
+        "R_no": 2142,
+        "new_infections": 104
+    },
+    {
+        "S_no": 25096,
+        "I_no": 12721,
+        "R_no": 2183,
+        "new_infections": 112
+    },
+    {
+        "S_no": 24996,
+        "I_no": 12789,
+        "R_no": 2215,
+        "new_infections": 100
+    },
+    {
+        "S_no": 24888,
+        "I_no": 12873,
+        "R_no": 2239,
+        "new_infections": 108
+    },
+    {
+        "S_no": 24783,
+        "I_no": 12957,
+        "R_no": 2260,
+        "new_infections": 105
+    },
+    {
+        "S_no": 24675,
+        "I_no": 13040,
+        "R_no": 2285,
+        "new_infections": 108
+    },
+    {
+        "S_no": 24552,
+        "I_no": 13134,
+        "R_no": 2314,
+        "new_infections": 123
+    },
+    {
+        "S_no": 24435,
+        "I_no": 13219,
+        "R_no": 2346,
+        "new_infections": 117
+    },
+    {
+        "S_no": 24328,
+        "I_no": 13302,
+        "R_no": 2370,
+        "new_infections": 107
+    },
+    {
+        "S_no": 24214,
+        "I_no": 13388,
+        "R_no": 2398,
+        "new_infections": 114
+    },
+    {
+        "S_no": 24114,
+        "I_no": 13463,
+        "R_no": 2423,
+        "new_infections": 100
+    },
+    {
+        "S_no": 24003,
+        "I_no": 13546,
+        "R_no": 2451,
+        "new_infections": 111
+    },
+    {
+        "S_no": 23900,
+        "I_no": 13621,
+        "R_no": 2479,
+        "new_infections": 103
+    },
+    {
+        "S_no": 23788,
+        "I_no": 13707,
+        "R_no": 2505,
+        "new_infections": 112
+    },
+    {
+        "S_no": 23670,
+        "I_no": 13796,
+        "R_no": 2534,
+        "new_infections": 118
+    },
+    {
+        "S_no": 23539,
+        "I_no": 13901,
+        "R_no": 2560,
+        "new_infections": 131
+    },
+    {
+        "S_no": 23428,
+        "I_no": 13990,
+        "R_no": 2582,
+        "new_infections": 111
+    },
+    {
+        "S_no": 23294,
+        "I_no": 14090,
+        "R_no": 2616,
+        "new_infections": 134
+    },
+    {
+        "S_no": 23175,
+        "I_no": 14196,
+        "R_no": 2629,
+        "new_infections": 119
+    },
+    {
+        "S_no": 23034,
+        "I_no": 14317,
+        "R_no": 2649,
+        "new_infections": 141
+    },
+    {
+        "S_no": 22913,
+        "I_no": 14417,
+        "R_no": 2670,
+        "new_infections": 121
+    },
+    {
+        "S_no": 22796,
+        "I_no": 14509,
+        "R_no": 2695,
+        "new_infections": 117
+    },
+    {
+        "S_no": 22673,
+        "I_no": 14601,
+        "R_no": 2726,
+        "new_infections": 123
+    },
+    {
+        "S_no": 22530,
+        "I_no": 14719,
+        "R_no": 2751,
+        "new_infections": 143
+    },
+    {
+        "S_no": 22399,
+        "I_no": 14820,
+        "R_no": 2781,
+        "new_infections": 131
+    },
+    {
+        "S_no": 22258,
+        "I_no": 14928,
+        "R_no": 2814,
+        "new_infections": 141
+    },
+    {
+        "S_no": 22147,
+        "I_no": 15009,
+        "R_no": 2844,
+        "new_infections": 111
+    },
+    {
+        "S_no": 22012,
+        "I_no": 15116,
+        "R_no": 2872,
+        "new_infections": 135
+    },
+    {
+        "S_no": 21860,
+        "I_no": 15235,
+        "R_no": 2905,
+        "new_infections": 152
+    },
+    {
+        "S_no": 21717,
+        "I_no": 15349,
+        "R_no": 2934,
+        "new_infections": 143
+    },
+    {
+        "S_no": 21592,
+        "I_no": 15442,
+        "R_no": 2966,
+        "new_infections": 125
+    },
+    {
+        "S_no": 21454,
+        "I_no": 15555,
+        "R_no": 2991,
+        "new_infections": 138
+    },
+    {
+        "S_no": 21321,
+        "I_no": 15645,
+        "R_no": 3034,
+        "new_infections": 133
+    },
+    {
+        "S_no": 21173,
+        "I_no": 15762,
+        "R_no": 3065,
+        "new_infections": 148
+    },
+    {
+        "S_no": 21050,
+        "I_no": 15863,
+        "R_no": 3087,
+        "new_infections": 123
+    },
+    {
+        "S_no": 20927,
+        "I_no": 15954,
+        "R_no": 3119,
+        "new_infections": 123
+    },
+    {
+        "S_no": 20793,
+        "I_no": 16050,
+        "R_no": 3157,
+        "new_infections": 134
+    },
+    {
+        "S_no": 20647,
+        "I_no": 16166,
+        "R_no": 3187,
+        "new_infections": 146
+    },
+    {
+        "S_no": 20500,
+        "I_no": 16281,
+        "R_no": 3219,
+        "new_infections": 147
+    },
+    {
+        "S_no": 20373,
+        "I_no": 16379,
+        "R_no": 3248,
         "new_infections": 127
     },
     {
-        "S_no": 20585,
-        "I_no": 16037,
-        "R_no": 3378,
-        "new_infections": 127
+        "S_no": 20237,
+        "I_no": 16478,
+        "R_no": 3285,
+        "new_infections": 136
     },
     {
-        "S_no": 20439,
-        "I_no": 16149,
+        "S_no": 20084,
+        "I_no": 16599,
+        "R_no": 3317,
+        "new_infections": 153
+    },
+    {
+        "S_no": 19912,
+        "I_no": 16743,
+        "R_no": 3345,
+        "new_infections": 172
+    },
+    {
+        "S_no": 19772,
+        "I_no": 16855,
+        "R_no": 3373,
+        "new_infections": 140
+    },
+    {
+        "S_no": 19626,
+        "I_no": 16962,
         "R_no": 3412,
         "new_infections": 146
     },
     {
-        "S_no": 20312,
-        "I_no": 16244,
-        "R_no": 3444,
-        "new_infections": 127
+        "S_no": 19481,
+        "I_no": 17064,
+        "R_no": 3455,
+        "new_infections": 145
     },
     {
-        "S_no": 20173,
-        "I_no": 16344,
-        "R_no": 3483,
-        "new_infections": 139
+        "S_no": 19349,
+        "I_no": 17167,
+        "R_no": 3484,
+        "new_infections": 132
     },
     {
-        "S_no": 20034,
-        "I_no": 16454,
-        "R_no": 3512,
-        "new_infections": 139
+        "S_no": 19208,
+        "I_no": 17273,
+        "R_no": 3519,
+        "new_infections": 141
     },
     {
-        "S_no": 19899,
-        "I_no": 16564,
-        "R_no": 3537,
-        "new_infections": 135
-    },
-    {
-        "S_no": 19777,
-        "I_no": 16659,
-        "R_no": 3564,
-        "new_infections": 122
-    },
-    {
-        "S_no": 19656,
-        "I_no": 16753,
-        "R_no": 3591,
-        "new_infections": 121
-    },
-    {
-        "S_no": 19523,
-        "I_no": 16854,
-        "R_no": 3623,
+        "S_no": 19075,
+        "I_no": 17364,
+        "R_no": 3561,
         "new_infections": 133
     },
     {
-        "S_no": 19384,
-        "I_no": 16959,
-        "R_no": 3657,
-        "new_infections": 139
-    },
-    {
-        "S_no": 19252,
-        "I_no": 17054,
-        "R_no": 3694,
-        "new_infections": 132
-    },
-    {
-        "S_no": 19121,
-        "I_no": 17148,
-        "R_no": 3731,
-        "new_infections": 131
-    },
-    {
-        "S_no": 18998,
-        "I_no": 17237,
-        "R_no": 3765,
-        "new_infections": 123
-    },
-    {
-        "S_no": 18859,
-        "I_no": 17350,
-        "R_no": 3791,
-        "new_infections": 139
-    },
-    {
-        "S_no": 18725,
-        "I_no": 17454,
-        "R_no": 3821,
-        "new_infections": 134
-    },
-    {
-        "S_no": 18577,
-        "I_no": 17562,
-        "R_no": 3861,
-        "new_infections": 148
-    },
-    {
-        "S_no": 18442,
-        "I_no": 17664,
-        "R_no": 3894,
-        "new_infections": 135
-    },
-    {
-        "S_no": 18289,
-        "I_no": 17786,
-        "R_no": 3925,
-        "new_infections": 153
-    },
-    {
-        "S_no": 18160,
-        "I_no": 17882,
-        "R_no": 3958,
-        "new_infections": 129
-    },
-    {
-        "S_no": 18036,
-        "I_no": 17972,
-        "R_no": 3992,
-        "new_infections": 124
-    },
-    {
-        "S_no": 17910,
-        "I_no": 18064,
-        "R_no": 4026,
+        "S_no": 18949,
+        "I_no": 17453,
+        "R_no": 3598,
         "new_infections": 126
     },
     {
-        "S_no": 17773,
-        "I_no": 18169,
-        "R_no": 4058,
-        "new_infections": 137
-    },
-    {
-        "S_no": 17635,
-        "I_no": 18267,
-        "R_no": 4098,
-        "new_infections": 138
-    },
-    {
-        "S_no": 17495,
-        "I_no": 18369,
-        "R_no": 4136,
-        "new_infections": 140
-    },
-    {
-        "S_no": 17337,
-        "I_no": 18497,
-        "R_no": 4166,
-        "new_infections": 158
-    },
-    {
-        "S_no": 17194,
-        "I_no": 18604,
-        "R_no": 4202,
-        "new_infections": 143
-    },
-    {
-        "S_no": 17049,
-        "I_no": 18712,
-        "R_no": 4239,
-        "new_infections": 145
-    },
-    {
-        "S_no": 16906,
-        "I_no": 18817,
-        "R_no": 4277,
-        "new_infections": 143
-    },
-    {
-        "S_no": 16748,
-        "I_no": 18950,
-        "R_no": 4302,
-        "new_infections": 158
-    },
-    {
-        "S_no": 16606,
-        "I_no": 19056,
-        "R_no": 4338,
+        "S_no": 18807,
+        "I_no": 17551,
+        "R_no": 3642,
         "new_infections": 142
     },
     {
-        "S_no": 16453,
-        "I_no": 19176,
-        "R_no": 4371,
-        "new_infections": 153
-    },
-    {
-        "S_no": 16322,
-        "I_no": 19273,
-        "R_no": 4405,
-        "new_infections": 131
-    },
-    {
-        "S_no": 16177,
-        "I_no": 19392,
-        "R_no": 4431,
-        "new_infections": 145
-    },
-    {
-        "S_no": 16017,
-        "I_no": 19514,
-        "R_no": 4469,
-        "new_infections": 160
-    },
-    {
-        "S_no": 15888,
-        "I_no": 19602,
-        "R_no": 4510,
+        "S_no": 18678,
+        "I_no": 17637,
+        "R_no": 3685,
         "new_infections": 129
     },
     {
-        "S_no": 15722,
-        "I_no": 19732,
-        "R_no": 4546,
-        "new_infections": 166
+        "S_no": 18537,
+        "I_no": 17749,
+        "R_no": 3714,
+        "new_infections": 141
     },
     {
-        "S_no": 15590,
-        "I_no": 19829,
-        "R_no": 4581,
-        "new_infections": 132
+        "S_no": 18383,
+        "I_no": 17870,
+        "R_no": 3747,
+        "new_infections": 154
     },
     {
-        "S_no": 15442,
-        "I_no": 19927,
-        "R_no": 4631,
-        "new_infections": 148
+        "S_no": 18239,
+        "I_no": 17971,
+        "R_no": 3790,
+        "new_infections": 144
     },
     {
-        "S_no": 15300,
-        "I_no": 20035,
-        "R_no": 4665,
+        "S_no": 18097,
+        "I_no": 18072,
+        "R_no": 3831,
         "new_infections": 142
     },
     {
-        "S_no": 15149,
-        "I_no": 20142,
-        "R_no": 4709,
-        "new_infections": 151
-    },
-    {
-        "S_no": 14979,
-        "I_no": 20272,
-        "R_no": 4749,
+        "S_no": 17927,
+        "I_no": 18204,
+        "R_no": 3869,
         "new_infections": 170
     },
     {
-        "S_no": 14818,
-        "I_no": 20399,
-        "R_no": 4783,
-        "new_infections": 161
-    },
-    {
-        "S_no": 14678,
-        "I_no": 20498,
-        "R_no": 4824,
+        "S_no": 17787,
+        "I_no": 18310,
+        "R_no": 3903,
         "new_infections": 140
     },
     {
-        "S_no": 14522,
-        "I_no": 20608,
-        "R_no": 4870,
-        "new_infections": 156
+        "S_no": 17639,
+        "I_no": 18423,
+        "R_no": 3938,
+        "new_infections": 148
     },
     {
-        "S_no": 14369,
-        "I_no": 20720,
-        "R_no": 4911,
+        "S_no": 17491,
+        "I_no": 18545,
+        "R_no": 3964,
+        "new_infections": 148
+    },
+    {
+        "S_no": 17349,
+        "I_no": 18650,
+        "R_no": 4001,
+        "new_infections": 142
+    },
+    {
+        "S_no": 17210,
+        "I_no": 18756,
+        "R_no": 4034,
+        "new_infections": 139
+    },
+    {
+        "S_no": 17062,
+        "I_no": 18870,
+        "R_no": 4068,
+        "new_infections": 148
+    },
+    {
+        "S_no": 16908,
+        "I_no": 18989,
+        "R_no": 4103,
+        "new_infections": 154
+    },
+    {
+        "S_no": 16753,
+        "I_no": 19107,
+        "R_no": 4140,
+        "new_infections": 155
+    },
+    {
+        "S_no": 16589,
+        "I_no": 19225,
+        "R_no": 4186,
+        "new_infections": 164
+    },
+    {
+        "S_no": 16447,
+        "I_no": 19328,
+        "R_no": 4225,
+        "new_infections": 142
+    },
+    {
+        "S_no": 16301,
+        "I_no": 19436,
+        "R_no": 4263,
+        "new_infections": 146
+    },
+    {
+        "S_no": 16149,
+        "I_no": 19548,
+        "R_no": 4303,
+        "new_infections": 152
+    },
+    {
+        "S_no": 15986,
+        "I_no": 19657,
+        "R_no": 4357,
+        "new_infections": 163
+    },
+    {
+        "S_no": 15833,
+        "I_no": 19774,
+        "R_no": 4393,
         "new_infections": 153
     },
     {
-        "S_no": 14231,
-        "I_no": 20828,
-        "R_no": 4941,
+        "S_no": 15680,
+        "I_no": 19882,
+        "R_no": 4438,
+        "new_infections": 153
+    },
+    {
+        "S_no": 15534,
+        "I_no": 19991,
+        "R_no": 4475,
+        "new_infections": 146
+    },
+    {
+        "S_no": 15398,
+        "I_no": 20092,
+        "R_no": 4510,
+        "new_infections": 136
+    },
+    {
+        "S_no": 15260,
+        "I_no": 20179,
+        "R_no": 4561,
         "new_infections": 138
     },
     {
-        "S_no": 14074,
-        "I_no": 20953,
+        "S_no": 15110,
+        "I_no": 20279,
+        "R_no": 4611,
+        "new_infections": 150
+    },
+    {
+        "S_no": 14967,
+        "I_no": 20374,
+        "R_no": 4659,
+        "new_infections": 143
+    },
+    {
+        "S_no": 14816,
+        "I_no": 20473,
+        "R_no": 4711,
+        "new_infections": 151
+    },
+    {
+        "S_no": 14670,
+        "I_no": 20575,
+        "R_no": 4755,
+        "new_infections": 146
+    },
+    {
+        "S_no": 14532,
+        "I_no": 20667,
+        "R_no": 4801,
+        "new_infections": 138
+    },
+    {
+        "S_no": 14374,
+        "I_no": 20776,
+        "R_no": 4850,
+        "new_infections": 158
+    },
+    {
+        "S_no": 14234,
+        "I_no": 20876,
+        "R_no": 4890,
+        "new_infections": 140
+    },
+    {
+        "S_no": 14109,
+        "I_no": 20959,
+        "R_no": 4932,
+        "new_infections": 125
+    },
+    {
+        "S_no": 13952,
+        "I_no": 21075,
         "R_no": 4973,
         "new_infections": 157
     },
     {
-        "S_no": 13931,
-        "I_no": 21063,
-        "R_no": 5006,
-        "new_infections": 143
-    },
-    {
-        "S_no": 13772,
-        "I_no": 21188,
-        "R_no": 5040,
-        "new_infections": 159
-    },
-    {
-        "S_no": 13623,
-        "I_no": 21294,
-        "R_no": 5083,
-        "new_infections": 149
-    },
-    {
-        "S_no": 13463,
-        "I_no": 21413,
-        "R_no": 5124,
+        "S_no": 13792,
+        "I_no": 21198,
+        "R_no": 5010,
         "new_infections": 160
     },
     {
-        "S_no": 13296,
-        "I_no": 21537,
-        "R_no": 5167,
-        "new_infections": 167
-    },
-    {
-        "S_no": 13135,
-        "I_no": 21647,
-        "R_no": 5218,
-        "new_infections": 161
-    },
-    {
-        "S_no": 12947,
-        "I_no": 21802,
-        "R_no": 5251,
-        "new_infections": 188
-    },
-    {
-        "S_no": 12795,
-        "I_no": 21915,
-        "R_no": 5290,
-        "new_infections": 152
-    },
-    {
-        "S_no": 12618,
-        "I_no": 22040,
-        "R_no": 5342,
-        "new_infections": 177
-    },
-    {
-        "S_no": 12441,
-        "I_no": 22167,
-        "R_no": 5392,
-        "new_infections": 177
-    },
-    {
-        "S_no": 12257,
-        "I_no": 22317,
-        "R_no": 5426,
-        "new_infections": 184
-    },
-    {
-        "S_no": 12084,
-        "I_no": 22437,
-        "R_no": 5479,
-        "new_infections": 173
-    },
-    {
-        "S_no": 11903,
-        "I_no": 22578,
-        "R_no": 5519,
-        "new_infections": 181
-    },
-    {
-        "S_no": 11730,
-        "I_no": 22719,
-        "R_no": 5551,
-        "new_infections": 173
-    },
-    {
-        "S_no": 11559,
-        "I_no": 22833,
-        "R_no": 5608,
-        "new_infections": 171
-    },
-    {
-        "S_no": 11409,
-        "I_no": 22934,
-        "R_no": 5657,
-        "new_infections": 150
-    },
-    {
-        "S_no": 11252,
-        "I_no": 23044,
-        "R_no": 5704,
+        "S_no": 13635,
+        "I_no": 21315,
+        "R_no": 5050,
         "new_infections": 157
     },
     {
-        "S_no": 11083,
-        "I_no": 23162,
-        "R_no": 5755,
-        "new_infections": 169
+        "S_no": 13465,
+        "I_no": 21441,
+        "R_no": 5094,
+        "new_infections": 170
     },
     {
-        "S_no": 10923,
-        "I_no": 23277,
-        "R_no": 5800,
+        "S_no": 13277,
+        "I_no": 21591,
+        "R_no": 5132,
+        "new_infections": 188
+    },
+    {
+        "S_no": 13103,
+        "I_no": 21713,
+        "R_no": 5184,
+        "new_infections": 174
+    },
+    {
+        "S_no": 12943,
+        "I_no": 21830,
+        "R_no": 5227,
         "new_infections": 160
     },
     {
-        "S_no": 10768,
-        "I_no": 23378,
-        "R_no": 5854,
-        "new_infections": 155
+        "S_no": 12789,
+        "I_no": 21949,
+        "R_no": 5262,
+        "new_infections": 154
     },
     {
-        "S_no": 10588,
-        "I_no": 23513,
-        "R_no": 5899,
+        "S_no": 12625,
+        "I_no": 22065,
+        "R_no": 5310,
+        "new_infections": 164
+    },
+    {
+        "S_no": 12475,
+        "I_no": 22160,
+        "R_no": 5365,
+        "new_infections": 150
+    },
+    {
+        "S_no": 12295,
+        "I_no": 22296,
+        "R_no": 5409,
         "new_infections": 180
     },
     {
-        "S_no": 10392,
-        "I_no": 23675,
-        "R_no": 5933,
-        "new_infections": 196
-    },
-    {
-        "S_no": 10227,
-        "I_no": 23802,
-        "R_no": 5971,
-        "new_infections": 165
-    },
-    {
-        "S_no": 10053,
-        "I_no": 23923,
-        "R_no": 6024,
-        "new_infections": 174
-    },
-    {
-        "S_no": 9879,
-        "I_no": 24062,
-        "R_no": 6059,
-        "new_infections": 174
-    },
-    {
-        "S_no": 9685,
-        "I_no": 24203,
-        "R_no": 6112,
-        "new_infections": 194
-    },
-    {
-        "S_no": 9527,
-        "I_no": 24309,
-        "R_no": 6164,
-        "new_infections": 158
-    },
-    {
-        "S_no": 9353,
-        "I_no": 24434,
-        "R_no": 6213,
-        "new_infections": 174
-    },
-    {
-        "S_no": 9187,
-        "I_no": 24542,
-        "R_no": 6271,
-        "new_infections": 166
-    },
-    {
-        "S_no": 9024,
-        "I_no": 24663,
-        "R_no": 6313,
+        "S_no": 12132,
+        "I_no": 22415,
+        "R_no": 5453,
         "new_infections": 163
     },
     {
-        "S_no": 8853,
-        "I_no": 24776,
-        "R_no": 6371,
-        "new_infections": 171
+        "S_no": 11973,
+        "I_no": 22526,
+        "R_no": 5501,
+        "new_infections": 159
     },
     {
-        "S_no": 8692,
-        "I_no": 24885,
-        "R_no": 6423,
-        "new_infections": 161
+        "S_no": 11803,
+        "I_no": 22640,
+        "R_no": 5557,
+        "new_infections": 170
     },
     {
-        "S_no": 8539,
-        "I_no": 24974,
-        "R_no": 6487,
-        "new_infections": 153
+        "S_no": 11657,
+        "I_no": 22752,
+        "R_no": 5591,
+        "new_infections": 146
     },
     {
-        "S_no": 8357,
-        "I_no": 25106,
-        "R_no": 6537,
-        "new_infections": 182
+        "S_no": 11487,
+        "I_no": 22876,
+        "R_no": 5637,
+        "new_infections": 170
     },
     {
-        "S_no": 8184,
-        "I_no": 25237,
-        "R_no": 6579,
-        "new_infections": 173
-    },
-    {
-        "S_no": 8015,
-        "I_no": 25363,
-        "R_no": 6622,
-        "new_infections": 169
-    },
-    {
-        "S_no": 7849,
-        "I_no": 25480,
-        "R_no": 6671,
-        "new_infections": 166
-    },
-    {
-        "S_no": 7710,
-        "I_no": 25574,
-        "R_no": 6716,
-        "new_infections": 139
-    },
-    {
-        "S_no": 7555,
-        "I_no": 25674,
-        "R_no": 6771,
-        "new_infections": 155
-    },
-    {
-        "S_no": 7417,
-        "I_no": 25765,
-        "R_no": 6818,
-        "new_infections": 138
-    },
-    {
-        "S_no": 7274,
-        "I_no": 25865,
-        "R_no": 6861,
-        "new_infections": 143
-    },
-    {
-        "S_no": 7106,
-        "I_no": 25986,
-        "R_no": 6908,
+        "S_no": 11319,
+        "I_no": 23000,
+        "R_no": 5681,
         "new_infections": 168
     },
     {
-        "S_no": 6974,
-        "I_no": 26072,
-        "R_no": 6954,
-        "new_infections": 132
+        "S_no": 11150,
+        "I_no": 23096,
+        "R_no": 5754,
+        "new_infections": 169
     },
     {
-        "S_no": 6844,
-        "I_no": 26146,
-        "R_no": 7010,
-        "new_infections": 130
-    },
-    {
-        "S_no": 6692,
-        "I_no": 26240,
-        "R_no": 7068,
+        "S_no": 10998,
+        "I_no": 23209,
+        "R_no": 5793,
         "new_infections": 152
     },
     {
-        "S_no": 6562,
-        "I_no": 26322,
-        "R_no": 7116,
-        "new_infections": 130
+        "S_no": 10846,
+        "I_no": 23319,
+        "R_no": 5835,
+        "new_infections": 152
     },
     {
-        "S_no": 6419,
-        "I_no": 26414,
-        "R_no": 7167,
+        "S_no": 10677,
+        "I_no": 23443,
+        "R_no": 5880,
+        "new_infections": 169
+    },
+    {
+        "S_no": 10492,
+        "I_no": 23586,
+        "R_no": 5922,
+        "new_infections": 185
+    },
+    {
+        "S_no": 10339,
+        "I_no": 23699,
+        "R_no": 5962,
+        "new_infections": 153
+    },
+    {
+        "S_no": 10179,
+        "I_no": 23819,
+        "R_no": 6002,
+        "new_infections": 160
+    },
+    {
+        "S_no": 10022,
+        "I_no": 23926,
+        "R_no": 6052,
+        "new_infections": 157
+    },
+    {
+        "S_no": 9870,
+        "I_no": 24022,
+        "R_no": 6108,
+        "new_infections": 152
+    },
+    {
+        "S_no": 9700,
+        "I_no": 24145,
+        "R_no": 6155,
+        "new_infections": 170
+    },
+    {
+        "S_no": 9528,
+        "I_no": 24269,
+        "R_no": 6203,
+        "new_infections": 172
+    },
+    {
+        "S_no": 9390,
+        "I_no": 24345,
+        "R_no": 6265,
+        "new_infections": 138
+    },
+    {
+        "S_no": 9238,
+        "I_no": 24460,
+        "R_no": 6302,
+        "new_infections": 152
+    },
+    {
+        "S_no": 9095,
+        "I_no": 24557,
+        "R_no": 6348,
         "new_infections": 143
     },
     {
-        "S_no": 6275,
-        "I_no": 26505,
-        "R_no": 7220,
-        "new_infections": 144
+        "S_no": 8944,
+        "I_no": 24664,
+        "R_no": 6392,
+        "new_infections": 151
     },
     {
-        "S_no": 6151,
-        "I_no": 26576,
-        "R_no": 7273,
-        "new_infections": 124
+        "S_no": 8790,
+        "I_no": 24746,
+        "R_no": 6464,
+        "new_infections": 154
     },
     {
-        "S_no": 6044,
-        "I_no": 26633,
-        "R_no": 7323,
-        "new_infections": 107
+        "S_no": 8635,
+        "I_no": 24854,
+        "R_no": 6511,
+        "new_infections": 155
     },
     {
-        "S_no": 5908,
-        "I_no": 26705,
-        "R_no": 7387,
-        "new_infections": 136
+        "S_no": 8468,
+        "I_no": 24970,
+        "R_no": 6562,
+        "new_infections": 167
     },
     {
-        "S_no": 5790,
-        "I_no": 26766,
-        "R_no": 7444,
-        "new_infections": 118
+        "S_no": 8320,
+        "I_no": 25059,
+        "R_no": 6621,
+        "new_infections": 148
     },
     {
-        "S_no": 5676,
-        "I_no": 26830,
-        "R_no": 7494,
+        "S_no": 8183,
+        "I_no": 25150,
+        "R_no": 6667,
+        "new_infections": 137
+    },
+    {
+        "S_no": 8043,
+        "I_no": 25234,
+        "R_no": 6723,
+        "new_infections": 140
+    },
+    {
+        "S_no": 7910,
+        "I_no": 25332,
+        "R_no": 6758,
+        "new_infections": 133
+    },
+    {
+        "S_no": 7785,
+        "I_no": 25399,
+        "R_no": 6816,
+        "new_infections": 125
+    },
+    {
+        "S_no": 7647,
+        "I_no": 25482,
+        "R_no": 6871,
+        "new_infections": 138
+    },
+    {
+        "S_no": 7497,
+        "I_no": 25583,
+        "R_no": 6920,
+        "new_infections": 150
+    },
+    {
+        "S_no": 7383,
+        "I_no": 25647,
+        "R_no": 6970,
         "new_infections": 114
     },
     {
-        "S_no": 5550,
-        "I_no": 26909,
-        "R_no": 7541,
-        "new_infections": 126
+        "S_no": 7251,
+        "I_no": 25733,
+        "R_no": 7016,
+        "new_infections": 132
     },
     {
-        "S_no": 5435,
-        "I_no": 26975,
-        "R_no": 7590,
-        "new_infections": 115
+        "S_no": 7122,
+        "I_no": 25816,
+        "R_no": 7062,
+        "new_infections": 129
     },
     {
-        "S_no": 5326,
-        "I_no": 27037,
-        "R_no": 7637,
+        "S_no": 6993,
+        "I_no": 25904,
+        "R_no": 7103,
+        "new_infections": 129
+    },
+    {
+        "S_no": 6871,
+        "I_no": 25973,
+        "R_no": 7156,
+        "new_infections": 122
+    },
+    {
+        "S_no": 6752,
+        "I_no": 26031,
+        "R_no": 7217,
+        "new_infections": 119
+    },
+    {
+        "S_no": 6641,
+        "I_no": 26072,
+        "R_no": 7287,
+        "new_infections": 111
+    },
+    {
+        "S_no": 6532,
+        "I_no": 26139,
+        "R_no": 7329,
         "new_infections": 109
     },
     {
-        "S_no": 5223,
-        "I_no": 27084,
-        "R_no": 7693,
-        "new_infections": 103
+        "S_no": 6421,
+        "I_no": 26189,
+        "R_no": 7390,
+        "new_infections": 111
     },
     {
-        "S_no": 5103,
-        "I_no": 27151,
-        "R_no": 7746,
+        "S_no": 6313,
+        "I_no": 26246,
+        "R_no": 7441,
+        "new_infections": 108
+    },
+    {
+        "S_no": 6193,
+        "I_no": 26315,
+        "R_no": 7492,
         "new_infections": 120
     },
     {
-        "S_no": 5005,
-        "I_no": 27203,
-        "R_no": 7792,
-        "new_infections": 98
+        "S_no": 6078,
+        "I_no": 26360,
+        "R_no": 7562,
+        "new_infections": 115
     },
     {
-        "S_no": 4910,
-        "I_no": 27225,
-        "R_no": 7865,
-        "new_infections": 95
+        "S_no": 5971,
+        "I_no": 26415,
+        "R_no": 7614,
+        "new_infections": 107
     },
     {
-        "S_no": 4798,
-        "I_no": 27274,
-        "R_no": 7928,
-        "new_infections": 112
+        "S_no": 5861,
+        "I_no": 26454,
+        "R_no": 7685,
+        "new_infections": 110
     },
     {
-        "S_no": 4697,
-        "I_no": 27315,
-        "R_no": 7988,
-        "new_infections": 101
+        "S_no": 5754,
+        "I_no": 26492,
+        "R_no": 7754,
+        "new_infections": 107
     },
     {
-        "S_no": 4610,
-        "I_no": 27344,
-        "R_no": 8046,
-        "new_infections": 87
+        "S_no": 5655,
+        "I_no": 26530,
+        "R_no": 7815,
+        "new_infections": 99
     },
     {
-        "S_no": 4521,
-        "I_no": 27374,
-        "R_no": 8105,
-        "new_infections": 89
+        "S_no": 5534,
+        "I_no": 26592,
+        "R_no": 7874,
+        "new_infections": 121
     },
     {
-        "S_no": 4440,
-        "I_no": 27391,
-        "R_no": 8169,
+        "S_no": 5434,
+        "I_no": 26641,
+        "R_no": 7925,
+        "new_infections": 100
+    },
+    {
+        "S_no": 5353,
+        "I_no": 26679,
+        "R_no": 7968,
         "new_infections": 81
     },
     {
-        "S_no": 4350,
-        "I_no": 27428,
-        "R_no": 8222,
+        "S_no": 5250,
+        "I_no": 26732,
+        "R_no": 8018,
+        "new_infections": 103
+    },
+    {
+        "S_no": 5144,
+        "I_no": 26796,
+        "R_no": 8060,
+        "new_infections": 106
+    },
+    {
+        "S_no": 5056,
+        "I_no": 26823,
+        "R_no": 8121,
+        "new_infections": 88
+    },
+    {
+        "S_no": 4957,
+        "I_no": 26857,
+        "R_no": 8186,
+        "new_infections": 99
+    },
+    {
+        "S_no": 4864,
+        "I_no": 26894,
+        "R_no": 8242,
+        "new_infections": 93
+    },
+    {
+        "S_no": 4774,
+        "I_no": 26932,
+        "R_no": 8294,
         "new_infections": 90
     },
     {
-        "S_no": 4253,
-        "I_no": 27473,
-        "R_no": 8274,
-        "new_infections": 97
+        "S_no": 4675,
+        "I_no": 26973,
+        "R_no": 8352,
+        "new_infections": 99
     },
     {
-        "S_no": 4168,
-        "I_no": 27501,
-        "R_no": 8331,
-        "new_infections": 85
-    },
-    {
-        "S_no": 4090,
-        "I_no": 27527,
-        "R_no": 8383,
-        "new_infections": 78
-    },
-    {
-        "S_no": 4020,
-        "I_no": 27525,
-        "R_no": 8455,
-        "new_infections": 70
-    },
-    {
-        "S_no": 3933,
-        "I_no": 27555,
-        "R_no": 8512,
-        "new_infections": 87
-    },
-    {
-        "S_no": 3844,
-        "I_no": 27582,
-        "R_no": 8574,
-        "new_infections": 89
-    },
-    {
-        "S_no": 3764,
-        "I_no": 27615,
-        "R_no": 8621,
+        "S_no": 4595,
+        "I_no": 26978,
+        "R_no": 8427,
         "new_infections": 80
     },
     {
-        "S_no": 3685,
-        "I_no": 27640,
-        "R_no": 8675,
+        "S_no": 4506,
+        "I_no": 27015,
+        "R_no": 8479,
+        "new_infections": 89
+    },
+    {
+        "S_no": 4419,
+        "I_no": 27040,
+        "R_no": 8541,
+        "new_infections": 87
+    },
+    {
+        "S_no": 4340,
+        "I_no": 27070,
+        "R_no": 8590,
         "new_infections": 79
     },
     {
-        "S_no": 3609,
-        "I_no": 27667,
-        "R_no": 8724,
+        "S_no": 4269,
+        "I_no": 27084,
+        "R_no": 8647,
+        "new_infections": 71
+    },
+    {
+        "S_no": 4176,
+        "I_no": 27125,
+        "R_no": 8699,
+        "new_infections": 93
+    },
+    {
+        "S_no": 4100,
+        "I_no": 27150,
+        "R_no": 8750,
         "new_infections": 76
     },
     {
-        "S_no": 3537,
-        "I_no": 27694,
-        "R_no": 8769,
-        "new_infections": 72
-    },
-    {
-        "S_no": 3470,
-        "I_no": 27707,
-        "R_no": 8823,
-        "new_infections": 67
-    },
-    {
-        "S_no": 3413,
-        "I_no": 27713,
-        "R_no": 8874,
-        "new_infections": 57
-    },
-    {
-        "S_no": 3353,
-        "I_no": 27724,
-        "R_no": 8923,
-        "new_infections": 60
-    },
-    {
-        "S_no": 3283,
-        "I_no": 27733,
-        "R_no": 8984,
-        "new_infections": 70
-    },
-    {
-        "S_no": 3221,
-        "I_no": 27745,
-        "R_no": 9034,
-        "new_infections": 62
-    },
-    {
-        "S_no": 3143,
-        "I_no": 27774,
-        "R_no": 9083,
-        "new_infections": 78
-    },
-    {
-        "S_no": 3076,
-        "I_no": 27794,
-        "R_no": 9130,
-        "new_infections": 67
-    },
-    {
-        "S_no": 3023,
-        "I_no": 27790,
-        "R_no": 9187,
-        "new_infections": 53
-    },
-    {
-        "S_no": 2962,
-        "I_no": 27804,
-        "R_no": 9234,
-        "new_infections": 61
-    },
-    {
-        "S_no": 2905,
-        "I_no": 27799,
-        "R_no": 9296,
-        "new_infections": 57
-    },
-    {
-        "S_no": 2831,
-        "I_no": 27821,
-        "R_no": 9348,
+        "S_no": 4026,
+        "I_no": 27164,
+        "R_no": 8810,
         "new_infections": 74
     },
     {
-        "S_no": 2776,
-        "I_no": 27812,
-        "R_no": 9412,
-        "new_infections": 55
+        "S_no": 3957,
+        "I_no": 27172,
+        "R_no": 8871,
+        "new_infections": 69
     },
     {
-        "S_no": 2713,
-        "I_no": 27812,
-        "R_no": 9475,
-        "new_infections": 63
+        "S_no": 3867,
+        "I_no": 27196,
+        "R_no": 8937,
+        "new_infections": 90
     },
     {
-        "S_no": 2655,
-        "I_no": 27813,
-        "R_no": 9532,
-        "new_infections": 58
+        "S_no": 3788,
+        "I_no": 27229,
+        "R_no": 8983,
+        "new_infections": 79
     },
     {
-        "S_no": 2601,
-        "I_no": 27809,
-        "R_no": 9590,
-        "new_infections": 54
-    },
-    {
-        "S_no": 2537,
-        "I_no": 27823,
-        "R_no": 9640,
-        "new_infections": 64
-    },
-    {
-        "S_no": 2482,
-        "I_no": 27819,
-        "R_no": 9699,
-        "new_infections": 55
-    },
-    {
-        "S_no": 2416,
-        "I_no": 27833,
-        "R_no": 9751,
-        "new_infections": 66
-    },
-    {
-        "S_no": 2358,
-        "I_no": 27842,
-        "R_no": 9800,
-        "new_infections": 58
-    },
-    {
-        "S_no": 2302,
-        "I_no": 27846,
-        "R_no": 9852,
-        "new_infections": 56
-    },
-    {
-        "S_no": 2243,
-        "I_no": 27857,
-        "R_no": 9900,
-        "new_infections": 59
-    },
-    {
-        "S_no": 2187,
-        "I_no": 27861,
-        "R_no": 9952,
-        "new_infections": 56
-    },
-    {
-        "S_no": 2130,
-        "I_no": 27874,
-        "R_no": 9996,
-        "new_infections": 57
-    },
-    {
-        "S_no": 2075,
-        "I_no": 27871,
-        "R_no": 10054,
-        "new_infections": 55
-    },
-    {
-        "S_no": 2026,
-        "I_no": 27870,
-        "R_no": 10104,
-        "new_infections": 49
-    },
-    {
-        "S_no": 1963,
-        "I_no": 27869,
-        "R_no": 10168,
-        "new_infections": 63
-    },
-    {
-        "S_no": 1922,
-        "I_no": 27843,
-        "R_no": 10235,
-        "new_infections": 41
-    },
-    {
-        "S_no": 1858,
-        "I_no": 27858,
-        "R_no": 10284,
-        "new_infections": 64
-    },
-    {
-        "S_no": 1806,
-        "I_no": 27861,
-        "R_no": 10333,
-        "new_infections": 52
-    },
-    {
-        "S_no": 1752,
-        "I_no": 27843,
-        "R_no": 10405,
-        "new_infections": 54
-    },
-    {
-        "S_no": 1702,
-        "I_no": 27828,
-        "R_no": 10470,
-        "new_infections": 50
-    },
-    {
-        "S_no": 1653,
-        "I_no": 27819,
-        "R_no": 10528,
-        "new_infections": 49
-    },
-    {
-        "S_no": 1602,
-        "I_no": 27814,
-        "R_no": 10584,
-        "new_infections": 51
-    },
-    {
-        "S_no": 1556,
-        "I_no": 27808,
-        "R_no": 10636,
-        "new_infections": 46
-    },
-    {
-        "S_no": 1509,
-        "I_no": 27806,
-        "R_no": 10685,
-        "new_infections": 47
-    },
-    {
-        "S_no": 1447,
-        "I_no": 27799,
-        "R_no": 10754,
+        "S_no": 3726,
+        "I_no": 27231,
+        "R_no": 9043,
         "new_infections": 62
     },
     {
-        "S_no": 1399,
-        "I_no": 27794,
-        "R_no": 10807,
+        "S_no": 3656,
+        "I_no": 27252,
+        "R_no": 9092,
+        "new_infections": 70
+    },
+    {
+        "S_no": 3579,
+        "I_no": 27277,
+        "R_no": 9144,
+        "new_infections": 77
+    },
+    {
+        "S_no": 3499,
+        "I_no": 27306,
+        "R_no": 9195,
+        "new_infections": 80
+    },
+    {
+        "S_no": 3428,
+        "I_no": 27307,
+        "R_no": 9265,
+        "new_infections": 71
+    },
+    {
+        "S_no": 3363,
+        "I_no": 27324,
+        "R_no": 9313,
+        "new_infections": 65
+    },
+    {
+        "S_no": 3287,
+        "I_no": 27339,
+        "R_no": 9374,
+        "new_infections": 76
+    },
+    {
+        "S_no": 3210,
+        "I_no": 27361,
+        "R_no": 9429,
+        "new_infections": 77
+    },
+    {
+        "S_no": 3140,
+        "I_no": 27369,
+        "R_no": 9491,
+        "new_infections": 70
+    },
+    {
+        "S_no": 3071,
+        "I_no": 27386,
+        "R_no": 9543,
+        "new_infections": 69
+    },
+    {
+        "S_no": 3003,
+        "I_no": 27396,
+        "R_no": 9601,
+        "new_infections": 68
+    },
+    {
+        "S_no": 2934,
+        "I_no": 27404,
+        "R_no": 9662,
+        "new_infections": 69
+    },
+    {
+        "S_no": 2869,
+        "I_no": 27420,
+        "R_no": 9711,
+        "new_infections": 65
+    },
+    {
+        "S_no": 2821,
+        "I_no": 27416,
+        "R_no": 9763,
         "new_infections": 48
     },
     {
-        "S_no": 1352,
-        "I_no": 27786,
-        "R_no": 10862,
-        "new_infections": 47
+        "S_no": 2765,
+        "I_no": 27417,
+        "R_no": 9818,
+        "new_infections": 56
     },
     {
-        "S_no": 1302,
-        "I_no": 27784,
-        "R_no": 10914,
-        "new_infections": 50
+        "S_no": 2701,
+        "I_no": 27425,
+        "R_no": 9874,
+        "new_infections": 64
     },
     {
-        "S_no": 1265,
-        "I_no": 27759,
-        "R_no": 10976,
-        "new_infections": 37
+        "S_no": 2646,
+        "I_no": 27418,
+        "R_no": 9936,
+        "new_infections": 55
     },
     {
-        "S_no": 1222,
-        "I_no": 27745,
-        "R_no": 11033,
-        "new_infections": 43
+        "S_no": 2593,
+        "I_no": 27413,
+        "R_no": 9994,
+        "new_infections": 53
     },
     {
-        "S_no": 1179,
-        "I_no": 27734,
-        "R_no": 11087,
-        "new_infections": 43
+        "S_no": 2526,
+        "I_no": 27429,
+        "R_no": 10045,
+        "new_infections": 67
     },
     {
-        "S_no": 1141,
-        "I_no": 27711,
-        "R_no": 11148,
-        "new_infections": 38
+        "S_no": 2475,
+        "I_no": 27420,
+        "R_no": 10105,
+        "new_infections": 51
     },
     {
-        "S_no": 1101,
-        "I_no": 27692,
-        "R_no": 11207,
-        "new_infections": 40
+        "S_no": 2417,
+        "I_no": 27416,
+        "R_no": 10167,
+        "new_infections": 58
     },
     {
-        "S_no": 1056,
-        "I_no": 27681,
-        "R_no": 11263,
+        "S_no": 2352,
+        "I_no": 27434,
+        "R_no": 10214,
+        "new_infections": 65
+    },
+    {
+        "S_no": 2290,
+        "I_no": 27436,
+        "R_no": 10274,
+        "new_infections": 62
+    },
+    {
+        "S_no": 2237,
+        "I_no": 27425,
+        "R_no": 10338,
+        "new_infections": 53
+    },
+    {
+        "S_no": 2177,
+        "I_no": 27440,
+        "R_no": 10383,
+        "new_infections": 60
+    },
+    {
+        "S_no": 2133,
+        "I_no": 27432,
+        "R_no": 10435,
+        "new_infections": 44
+    },
+    {
+        "S_no": 2066,
+        "I_no": 27440,
+        "R_no": 10494,
+        "new_infections": 67
+    },
+    {
+        "S_no": 2022,
+        "I_no": 27435,
+        "R_no": 10543,
+        "new_infections": 44
+    },
+    {
+        "S_no": 1965,
+        "I_no": 27441,
+        "R_no": 10594,
+        "new_infections": 57
+    },
+    {
+        "S_no": 1921,
+        "I_no": 27426,
+        "R_no": 10653,
+        "new_infections": 44
+    },
+    {
+        "S_no": 1870,
+        "I_no": 27417,
+        "R_no": 10713,
+        "new_infections": 51
+    },
+    {
+        "S_no": 1813,
+        "I_no": 27422,
+        "R_no": 10765,
+        "new_infections": 57
+    },
+    {
+        "S_no": 1768,
+        "I_no": 27419,
+        "R_no": 10813,
         "new_infections": 45
     },
     {
-        "S_no": 1010,
-        "I_no": 27662,
-        "R_no": 11328,
-        "new_infections": 46
+        "S_no": 1721,
+        "I_no": 27403,
+        "R_no": 10876,
+        "new_infections": 47
     },
     {
-        "S_no": 979,
-        "I_no": 27640,
-        "R_no": 11381,
-        "new_infections": 31
-    },
-    {
-        "S_no": 942,
-        "I_no": 27624,
-        "R_no": 11434,
-        "new_infections": 37
-    },
-    {
-        "S_no": 915,
-        "I_no": 27589,
-        "R_no": 11496,
-        "new_infections": 27
-    },
-    {
-        "S_no": 872,
-        "I_no": 27575,
-        "R_no": 11553,
-        "new_infections": 43
-    },
-    {
-        "S_no": 837,
-        "I_no": 27567,
-        "R_no": 11596,
-        "new_infections": 35
-    },
-    {
-        "S_no": 800,
-        "I_no": 27550,
-        "R_no": 11650,
-        "new_infections": 37
-    },
-    {
-        "S_no": 766,
-        "I_no": 27515,
-        "R_no": 11719,
-        "new_infections": 34
-    },
-    {
-        "S_no": 735,
-        "I_no": 27493,
-        "R_no": 11772,
-        "new_infections": 31
-    },
-    {
-        "S_no": 707,
-        "I_no": 27466,
-        "R_no": 11827,
-        "new_infections": 28
-    },
-    {
-        "S_no": 653,
-        "I_no": 27477,
-        "R_no": 11870,
+        "S_no": 1667,
+        "I_no": 27398,
+        "R_no": 10935,
         "new_infections": 54
     },
     {
-        "S_no": 610,
-        "I_no": 27469,
-        "R_no": 11921,
-        "new_infections": 43
+        "S_no": 1618,
+        "I_no": 27396,
+        "R_no": 10986,
+        "new_infections": 49
     },
     {
-        "S_no": 569,
-        "I_no": 27439,
-        "R_no": 11992,
+        "S_no": 1577,
+        "I_no": 27383,
+        "R_no": 11040,
         "new_infections": 41
     },
     {
-        "S_no": 530,
-        "I_no": 27410,
-        "R_no": 12060,
-        "new_infections": 39
+        "S_no": 1519,
+        "I_no": 27393,
+        "R_no": 11088,
+        "new_infections": 58
     },
     {
-        "S_no": 492,
-        "I_no": 27404,
-        "R_no": 12104,
+        "S_no": 1486,
+        "I_no": 27369,
+        "R_no": 11145,
+        "new_infections": 33
+    },
+    {
+        "S_no": 1448,
+        "I_no": 27359,
+        "R_no": 11193,
         "new_infections": 38
     },
     {
-        "S_no": 462,
-        "I_no": 27369,
-        "R_no": 12169,
+        "S_no": 1402,
+        "I_no": 27343,
+        "R_no": 11255,
+        "new_infections": 46
+    },
+    {
+        "S_no": 1354,
+        "I_no": 27348,
+        "R_no": 11298,
+        "new_infections": 48
+    },
+    {
+        "S_no": 1322,
+        "I_no": 27326,
+        "R_no": 11352,
+        "new_infections": 32
+    },
+    {
+        "S_no": 1292,
+        "I_no": 27308,
+        "R_no": 11400,
         "new_infections": 30
     },
     {
-        "S_no": 433,
-        "I_no": 27347,
-        "R_no": 12220,
-        "new_infections": 29
+        "S_no": 1257,
+        "I_no": 27287,
+        "R_no": 11456,
+        "new_infections": 35
     },
     {
-        "S_no": 407,
-        "I_no": 27331,
-        "R_no": 12262,
-        "new_infections": 26
-    },
-    {
-        "S_no": 377,
-        "I_no": 27299,
-        "R_no": 12324,
-        "new_infections": 30
-    },
-    {
-        "S_no": 351,
+        "S_no": 1212,
         "I_no": 27276,
-        "R_no": 12373,
+        "R_no": 11512,
+        "new_infections": 45
+    },
+    {
+        "S_no": 1180,
+        "I_no": 27255,
+        "R_no": 11565,
+        "new_infections": 32
+    },
+    {
+        "S_no": 1142,
+        "I_no": 27238,
+        "R_no": 11620,
+        "new_infections": 38
+    },
+    {
+        "S_no": 1099,
+        "I_no": 27218,
+        "R_no": 11683,
+        "new_infections": 43
+    },
+    {
+        "S_no": 1069,
+        "I_no": 27190,
+        "R_no": 11741,
+        "new_infections": 30
+    },
+    {
+        "S_no": 1033,
+        "I_no": 27167,
+        "R_no": 11800,
+        "new_infections": 36
+    },
+    {
+        "S_no": 994,
+        "I_no": 27144,
+        "R_no": 11862,
+        "new_infections": 39
+    },
+    {
+        "S_no": 956,
+        "I_no": 27125,
+        "R_no": 11919,
+        "new_infections": 38
+    },
+    {
+        "S_no": 921,
+        "I_no": 27108,
+        "R_no": 11971,
+        "new_infections": 35
+    },
+    {
+        "S_no": 881,
+        "I_no": 27088,
+        "R_no": 12031,
+        "new_infections": 40
+    },
+    {
+        "S_no": 849,
+        "I_no": 27073,
+        "R_no": 12078,
+        "new_infections": 32
+    },
+    {
+        "S_no": 821,
+        "I_no": 27049,
+        "R_no": 12130,
+        "new_infections": 28
+    },
+    {
+        "S_no": 780,
+        "I_no": 27025,
+        "R_no": 12195,
+        "new_infections": 41
+    },
+    {
+        "S_no": 750,
+        "I_no": 26999,
+        "R_no": 12251,
+        "new_infections": 30
+    },
+    {
+        "S_no": 712,
+        "I_no": 26984,
+        "R_no": 12304,
+        "new_infections": 38
+    },
+    {
+        "S_no": 686,
+        "I_no": 26959,
+        "R_no": 12355,
         "new_infections": 26
     },
     {
-        "S_no": 332,
-        "I_no": 27240,
-        "R_no": 12428,
+        "S_no": 667,
+        "I_no": 26926,
+        "R_no": 12407,
         "new_infections": 19
     },
     {
-        "S_no": 309,
-        "I_no": 27215,
-        "R_no": 12476,
-        "new_infections": 23
+        "S_no": 642,
+        "I_no": 26898,
+        "R_no": 12460,
+        "new_infections": 25
     },
     {
-        "S_no": 292,
-        "I_no": 27186,
-        "R_no": 12522,
-        "new_infections": 17
-    },
-    {
-        "S_no": 277,
-        "I_no": 27134,
-        "R_no": 12589,
-        "new_infections": 15
-    },
-    {
-        "S_no": 257,
-        "I_no": 27098,
-        "R_no": 12645,
-        "new_infections": 20
-    },
-    {
-        "S_no": 231,
-        "I_no": 27050,
-        "R_no": 12719,
+        "S_no": 616,
+        "I_no": 26866,
+        "R_no": 12518,
         "new_infections": 26
     },
     {
-        "S_no": 209,
-        "I_no": 27024,
-        "R_no": 12767,
-        "new_infections": 22
+        "S_no": 588,
+        "I_no": 26834,
+        "R_no": 12578,
+        "new_infections": 28
     },
     {
-        "S_no": 193,
-        "I_no": 26981,
-        "R_no": 12826,
+        "S_no": 567,
+        "I_no": 26808,
+        "R_no": 12625,
+        "new_infections": 21
+    },
+    {
+        "S_no": 546,
+        "I_no": 26776,
+        "R_no": 12678,
+        "new_infections": 21
+    },
+    {
+        "S_no": 527,
+        "I_no": 26750,
+        "R_no": 12723,
+        "new_infections": 19
+    },
+    {
+        "S_no": 503,
+        "I_no": 26734,
+        "R_no": 12763,
+        "new_infections": 24
+    },
+    {
+        "S_no": 484,
+        "I_no": 26701,
+        "R_no": 12815,
+        "new_infections": 19
+    },
+    {
+        "S_no": 459,
+        "I_no": 26676,
+        "R_no": 12865,
+        "new_infections": 25
+    },
+    {
+        "S_no": 432,
+        "I_no": 26665,
+        "R_no": 12903,
+        "new_infections": 27
+    },
+    {
+        "S_no": 412,
+        "I_no": 26632,
+        "R_no": 12956,
+        "new_infections": 20
+    },
+    {
+        "S_no": 394,
+        "I_no": 26590,
+        "R_no": 13016,
+        "new_infections": 18
+    },
+    {
+        "S_no": 370,
+        "I_no": 26567,
+        "R_no": 13063,
+        "new_infections": 24
+    },
+    {
+        "S_no": 351,
+        "I_no": 26532,
+        "R_no": 13117,
+        "new_infections": 19
+    },
+    {
+        "S_no": 331,
+        "I_no": 26502,
+        "R_no": 13167,
+        "new_infections": 20
+    },
+    {
+        "S_no": 315,
+        "I_no": 26451,
+        "R_no": 13234,
         "new_infections": 16
     },
     {
-        "S_no": 179,
-        "I_no": 26947,
-        "R_no": 12874,
-        "new_infections": 14
+        "S_no": 299,
+        "I_no": 26421,
+        "R_no": 13280,
+        "new_infections": 16
     },
     {
-        "S_no": 162,
-        "I_no": 26893,
-        "R_no": 12945,
+        "S_no": 282,
+        "I_no": 26381,
+        "R_no": 13337,
         "new_infections": 17
     },
     {
-        "S_no": 146,
-        "I_no": 26860,
-        "R_no": 12994,
-        "new_infections": 16
-    },
-    {
-        "S_no": 129,
-        "I_no": 26820,
-        "R_no": 13051,
-        "new_infections": 17
-    },
-    {
-        "S_no": 113,
-        "I_no": 26789,
-        "R_no": 13098,
-        "new_infections": 16
-    },
-    {
-        "S_no": 100,
-        "I_no": 26751,
-        "R_no": 13149,
-        "new_infections": 13
-    },
-    {
-        "S_no": 87,
-        "I_no": 26692,
-        "R_no": 13221,
-        "new_infections": 13
-    },
-    {
-        "S_no": 77,
-        "I_no": 26644,
-        "R_no": 13279,
-        "new_infections": 10
-    },
-    {
-        "S_no": 66,
-        "I_no": 26595,
-        "R_no": 13339,
-        "new_infections": 11
-    },
-    {
-        "S_no": 57,
-        "I_no": 26553,
-        "R_no": 13390,
-        "new_infections": 9
-    },
-    {
-        "S_no": 49,
-        "I_no": 26513,
-        "R_no": 13438,
+        "S_no": 274,
+        "I_no": 26337,
+        "R_no": 13389,
         "new_infections": 8
     },
     {
-        "S_no": 43,
-        "I_no": 26471,
-        "R_no": 13486,
+        "S_no": 259,
+        "I_no": 26313,
+        "R_no": 13428,
+        "new_infections": 15
+    },
+    {
+        "S_no": 239,
+        "I_no": 26286,
+        "R_no": 13475,
+        "new_infections": 20
+    },
+    {
+        "S_no": 227,
+        "I_no": 26242,
+        "R_no": 13531,
+        "new_infections": 12
+    },
+    {
+        "S_no": 213,
+        "I_no": 26194,
+        "R_no": 13593,
+        "new_infections": 14
+    },
+    {
+        "S_no": 198,
+        "I_no": 26147,
+        "R_no": 13655,
+        "new_infections": 15
+    },
+    {
+        "S_no": 186,
+        "I_no": 26095,
+        "R_no": 13719,
+        "new_infections": 12
+    },
+    {
+        "S_no": 177,
+        "I_no": 26055,
+        "R_no": 13768,
+        "new_infections": 9
+    },
+    {
+        "S_no": 168,
+        "I_no": 26003,
+        "R_no": 13829,
+        "new_infections": 9
+    },
+    {
+        "S_no": 152,
+        "I_no": 25974,
+        "R_no": 13874,
+        "new_infections": 16
+    },
+    {
+        "S_no": 135,
+        "I_no": 25938,
+        "R_no": 13927,
+        "new_infections": 17
+    },
+    {
+        "S_no": 123,
+        "I_no": 25887,
+        "R_no": 13990,
+        "new_infections": 12
+    },
+    {
+        "S_no": 111,
+        "I_no": 25840,
+        "R_no": 14049,
+        "new_infections": 12
+    },
+    {
+        "S_no": 96,
+        "I_no": 25791,
+        "R_no": 14113,
+        "new_infections": 15
+    },
+    {
+        "S_no": 87,
+        "I_no": 25740,
+        "R_no": 14173,
+        "new_infections": 9
+    },
+    {
+        "S_no": 78,
+        "I_no": 25699,
+        "R_no": 14223,
+        "new_infections": 9
+    },
+    {
+        "S_no": 70,
+        "I_no": 25663,
+        "R_no": 14267,
+        "new_infections": 8
+    },
+    {
+        "S_no": 60,
+        "I_no": 25608,
+        "R_no": 14332,
+        "new_infections": 10
+    },
+    {
+        "S_no": 52,
+        "I_no": 25565,
+        "R_no": 14383,
+        "new_infections": 8
+    },
+    {
+        "S_no": 46,
+        "I_no": 25520,
+        "R_no": 14434,
         "new_infections": 6
     },
     {
-        "S_no": 37,
-        "I_no": 26438,
-        "R_no": 13525,
+        "S_no": 40,
+        "I_no": 25477,
+        "R_no": 14483,
         "new_infections": 6
     },
     {
-        "S_no": 30,
-        "I_no": 26376,
-        "R_no": 13594,
-        "new_infections": 7
+        "S_no": 29,
+        "I_no": 25430,
+        "R_no": 14541,
+        "new_infections": 11
     },
     {
-        "S_no": 25,
-        "I_no": 26319,
-        "R_no": 13656,
+        "S_no": 23,
+        "I_no": 25388,
+        "R_no": 14589,
+        "new_infections": 6
+    },
+    {
+        "S_no": 18,
+        "I_no": 25351,
+        "R_no": 14631,
         "new_infections": 5
     },
     {
-        "S_no": 21,
-        "I_no": 26279,
-        "R_no": 13700,
+        "S_no": 14,
+        "I_no": 25302,
+        "R_no": 14684,
         "new_infections": 4
     },
     {
-        "S_no": 19,
-        "I_no": 26227,
-        "R_no": 13754,
+        "S_no": 12,
+        "I_no": 25256,
+        "R_no": 14732,
         "new_infections": 2
     },
     {
-        "S_no": 13,
-        "I_no": 26173,
-        "R_no": 13814,
-        "new_infections": 6
+        "S_no": 11,
+        "I_no": 25201,
+        "R_no": 14788,
+        "new_infections": 1
     },
     {
         "S_no": 10,
-        "I_no": 26131,
-        "R_no": 13859,
-        "new_infections": 3
-    },
-    {
-        "S_no": 8,
-        "I_no": 26085,
-        "R_no": 13907,
-        "new_infections": 2
-    },
-    {
-        "S_no": 5,
-        "I_no": 26025,
-        "R_no": 13970,
-        "new_infections": 3
-    },
-    {
-        "S_no": 5,
-        "I_no": 25969,
-        "R_no": 14026,
-        "new_infections": 0
-    },
-    {
-        "S_no": 4,
-        "I_no": 25912,
-        "R_no": 14084,
+        "I_no": 25150,
+        "R_no": 14840,
         "new_infections": 1
     },
     {
-        "S_no": 3,
-        "I_no": 25860,
-        "R_no": 14137,
-        "new_infections": 1
-    },
-    {
-        "S_no": 3,
-        "I_no": 25798,
-        "R_no": 14199,
-        "new_infections": 0
+        "S_no": 6,
+        "I_no": 25102,
+        "R_no": 14892,
+        "new_infections": 4
     },
     {
         "S_no": 2,
-        "I_no": 25746,
-        "R_no": 14252,
-        "new_infections": 1
-    },
-    {
-        "S_no": 2,
-        "I_no": 25695,
-        "R_no": 14303,
-        "new_infections": 0
+        "I_no": 25059,
+        "R_no": 14939,
+        "new_infections": 4
     },
     {
         "S_no": 1,
-        "I_no": 25655,
-        "R_no": 14344,
+        "I_no": 25014,
+        "R_no": 14985,
         "new_infections": 1
     },
     {
         "S_no": 0,
-        "I_no": 25603,
-        "R_no": 14397,
+        "I_no": 24951,
+        "R_no": 15049,
         "new_infections": 1
     },
     {
         "S_no": 0,
-        "I_no": 25564,
-        "R_no": 14436,
+        "I_no": 24914,
+        "R_no": 15086,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25519,
-        "R_no": 14481,
+        "I_no": 24856,
+        "R_no": 15144,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25491,
-        "R_no": 14509,
+        "I_no": 24807,
+        "R_no": 15193,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25435,
-        "R_no": 14565,
+        "I_no": 24757,
+        "R_no": 15243,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25386,
-        "R_no": 14614,
+        "I_no": 24708,
+        "R_no": 15292,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25342,
-        "R_no": 14658,
+        "I_no": 24650,
+        "R_no": 15350,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25286,
-        "R_no": 14714,
+        "I_no": 24593,
+        "R_no": 15407,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25218,
-        "R_no": 14782,
+        "I_no": 24554,
+        "R_no": 15446,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25157,
-        "R_no": 14843,
+        "I_no": 24508,
+        "R_no": 15492,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25106,
-        "R_no": 14894,
+        "I_no": 24459,
+        "R_no": 15541,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25060,
-        "R_no": 14940,
+        "I_no": 24395,
+        "R_no": 15605,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 25003,
-        "R_no": 14997,
+        "I_no": 24343,
+        "R_no": 15657,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24965,
-        "R_no": 15035,
+        "I_no": 24300,
+        "R_no": 15700,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24919,
-        "R_no": 15081,
+        "I_no": 24245,
+        "R_no": 15755,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24878,
-        "R_no": 15122,
+        "I_no": 24208,
+        "R_no": 15792,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24823,
-        "R_no": 15177,
+        "I_no": 24166,
+        "R_no": 15834,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24775,
-        "R_no": 15225,
+        "I_no": 24125,
+        "R_no": 15875,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24730,
-        "R_no": 15270,
+        "I_no": 24079,
+        "R_no": 15921,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24689,
-        "R_no": 15311,
+        "I_no": 24017,
+        "R_no": 15983,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24642,
-        "R_no": 15358,
+        "I_no": 23977,
+        "R_no": 16023,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24598,
-        "R_no": 15402,
+        "I_no": 23928,
+        "R_no": 16072,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24553,
-        "R_no": 15447,
+        "I_no": 23869,
+        "R_no": 16131,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24495,
-        "R_no": 15505,
+        "I_no": 23826,
+        "R_no": 16174,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24441,
-        "R_no": 15559,
+        "I_no": 23779,
+        "R_no": 16221,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24389,
-        "R_no": 15611,
+        "I_no": 23726,
+        "R_no": 16274,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24349,
-        "R_no": 15651,
+        "I_no": 23680,
+        "R_no": 16320,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24294,
-        "R_no": 15706,
+        "I_no": 23621,
+        "R_no": 16379,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24252,
-        "R_no": 15748,
+        "I_no": 23575,
+        "R_no": 16425,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24202,
-        "R_no": 15798,
+        "I_no": 23526,
+        "R_no": 16474,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24154,
-        "R_no": 15846,
+        "I_no": 23472,
+        "R_no": 16528,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24110,
-        "R_no": 15890,
+        "I_no": 23435,
+        "R_no": 16565,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24067,
-        "R_no": 15933,
+        "I_no": 23380,
+        "R_no": 16620,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 24022,
-        "R_no": 15978,
+        "I_no": 23339,
+        "R_no": 16661,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23975,
-        "R_no": 16025,
+        "I_no": 23287,
+        "R_no": 16713,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23942,
-        "R_no": 16058,
+        "I_no": 23247,
+        "R_no": 16753,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23886,
-        "R_no": 16114,
+        "I_no": 23193,
+        "R_no": 16807,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23830,
-        "R_no": 16170,
+        "I_no": 23140,
+        "R_no": 16860,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23789,
-        "R_no": 16211,
+        "I_no": 23092,
+        "R_no": 16908,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23727,
-        "R_no": 16273,
+        "I_no": 23052,
+        "R_no": 16948,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23671,
-        "R_no": 16329,
+        "I_no": 23010,
+        "R_no": 16990,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23620,
-        "R_no": 16380,
+        "I_no": 22972,
+        "R_no": 17028,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23572,
-        "R_no": 16428,
+        "I_no": 22924,
+        "R_no": 17076,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23534,
-        "R_no": 16466,
+        "I_no": 22882,
+        "R_no": 17118,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23486,
-        "R_no": 16514,
+        "I_no": 22825,
+        "R_no": 17175,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23443,
-        "R_no": 16557,
+        "I_no": 22776,
+        "R_no": 17224,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23399,
-        "R_no": 16601,
+        "I_no": 22724,
+        "R_no": 17276,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23352,
-        "R_no": 16648,
+        "I_no": 22680,
+        "R_no": 17320,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23297,
-        "R_no": 16703,
+        "I_no": 22618,
+        "R_no": 17382,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23241,
-        "R_no": 16759,
+        "I_no": 22572,
+        "R_no": 17428,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23187,
-        "R_no": 16813,
+        "I_no": 22523,
+        "R_no": 17477,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23133,
-        "R_no": 16867,
+        "I_no": 22481,
+        "R_no": 17519,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23076,
-        "R_no": 16924,
+        "I_no": 22432,
+        "R_no": 17568,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 23034,
-        "R_no": 16966,
+        "I_no": 22393,
+        "R_no": 17607,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22992,
-        "R_no": 17008,
+        "I_no": 22353,
+        "R_no": 17647,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22942,
-        "R_no": 17058,
+        "I_no": 22303,
+        "R_no": 17697,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22901,
-        "R_no": 17099,
+        "I_no": 22256,
+        "R_no": 17744,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22854,
-        "R_no": 17146,
+        "I_no": 22224,
+        "R_no": 17776,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22803,
-        "R_no": 17197,
+        "I_no": 22167,
+        "R_no": 17833,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22751,
-        "R_no": 17249,
+        "I_no": 22118,
+        "R_no": 17882,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22710,
-        "R_no": 17290,
+        "I_no": 22075,
+        "R_no": 17925,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22664,
-        "R_no": 17336,
+        "I_no": 22028,
+        "R_no": 17972,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22627,
-        "R_no": 17373,
+        "I_no": 21984,
+        "R_no": 18016,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22579,
-        "R_no": 17421,
+        "I_no": 21950,
+        "R_no": 18050,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22533,
-        "R_no": 17467,
+        "I_no": 21905,
+        "R_no": 18095,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22482,
-        "R_no": 17518,
+        "I_no": 21870,
+        "R_no": 18130,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22433,
-        "R_no": 17567,
+        "I_no": 21830,
+        "R_no": 18170,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22395,
-        "R_no": 17605,
+        "I_no": 21778,
+        "R_no": 18222,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22358,
-        "R_no": 17642,
+        "I_no": 21738,
+        "R_no": 18262,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22307,
-        "R_no": 17693,
+        "I_no": 21688,
+        "R_no": 18312,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22265,
-        "R_no": 17735,
+        "I_no": 21648,
+        "R_no": 18352,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22223,
-        "R_no": 17777,
+        "I_no": 21606,
+        "R_no": 18394,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22186,
-        "R_no": 17814,
+        "I_no": 21559,
+        "R_no": 18441,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22138,
-        "R_no": 17862,
+        "I_no": 21515,
+        "R_no": 18485,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22093,
-        "R_no": 17907,
+        "I_no": 21463,
+        "R_no": 18537,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22058,
-        "R_no": 17942,
+        "I_no": 21422,
+        "R_no": 18578,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 22010,
-        "R_no": 17990,
+        "I_no": 21381,
+        "R_no": 18619,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 21964,
-        "R_no": 18036,
+        "I_no": 21332,
+        "R_no": 18668,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 21913,
-        "R_no": 18087,
+        "I_no": 21286,
+        "R_no": 18714,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 21860,
-        "R_no": 18140,
+        "I_no": 21248,
+        "R_no": 18752,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 21826,
-        "R_no": 18174,
+        "I_no": 21202,
+        "R_no": 18798,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 21794,
-        "R_no": 18206,
+        "I_no": 21163,
+        "R_no": 18837,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 21756,
-        "R_no": 18244,
+        "I_no": 21114,
+        "R_no": 18886,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 21716,
-        "R_no": 18284,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21684,
-        "R_no": 18316,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21618,
-        "R_no": 18382,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21577,
-        "R_no": 18423,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21540,
-        "R_no": 18460,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21499,
-        "R_no": 18501,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21456,
-        "R_no": 18544,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21411,
-        "R_no": 18589,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21358,
-        "R_no": 18642,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21318,
-        "R_no": 18682,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21268,
-        "R_no": 18732,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21226,
-        "R_no": 18774,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21195,
-        "R_no": 18805,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21155,
-        "R_no": 18845,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21111,
-        "R_no": 18889,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 21067,
-        "R_no": 18933,
+        "I_no": 21071,
+        "R_no": 18929,
         "new_infections": 0
     },
     {
@@ -3763,200 +3757,206 @@
     },
     {
         "S_no": 0,
-        "I_no": 20996,
-        "R_no": 19004,
+        "I_no": 21003,
+        "R_no": 18997,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20958,
-        "R_no": 19042,
+        "I_no": 20955,
+        "R_no": 19045,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20909,
-        "R_no": 19091,
+        "I_no": 20925,
+        "R_no": 19075,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20865,
-        "R_no": 19135,
+        "I_no": 20878,
+        "R_no": 19122,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20820,
-        "R_no": 19180,
+        "I_no": 20834,
+        "R_no": 19166,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20775,
-        "R_no": 19225,
+        "I_no": 20789,
+        "R_no": 19211,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20726,
-        "R_no": 19274,
+        "I_no": 20751,
+        "R_no": 19249,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20687,
-        "R_no": 19313,
+        "I_no": 20700,
+        "R_no": 19300,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20648,
-        "R_no": 19352,
+        "I_no": 20662,
+        "R_no": 19338,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20608,
-        "R_no": 19392,
+        "I_no": 20622,
+        "R_no": 19378,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20571,
-        "R_no": 19429,
+        "I_no": 20572,
+        "R_no": 19428,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20536,
-        "R_no": 19464,
+        "I_no": 20534,
+        "R_no": 19466,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20493,
-        "R_no": 19507,
+        "I_no": 20501,
+        "R_no": 19499,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20459,
-        "R_no": 19541,
+        "I_no": 20463,
+        "R_no": 19537,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20416,
-        "R_no": 19584,
+        "I_no": 20417,
+        "R_no": 19583,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20373,
-        "R_no": 19627,
+        "I_no": 20385,
+        "R_no": 19615,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20335,
-        "R_no": 19665,
+        "I_no": 20334,
+        "R_no": 19666,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20290,
-        "R_no": 19710,
+        "I_no": 20291,
+        "R_no": 19709,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20256,
-        "R_no": 19744,
+        "I_no": 20251,
+        "R_no": 19749,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20210,
-        "R_no": 19790,
+        "I_no": 20221,
+        "R_no": 19779,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20159,
-        "R_no": 19841,
+        "I_no": 20187,
+        "R_no": 19813,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20121,
-        "R_no": 19879,
+        "I_no": 20140,
+        "R_no": 19860,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20075,
-        "R_no": 19925,
+        "I_no": 20095,
+        "R_no": 19905,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 20027,
-        "R_no": 19973,
+        "I_no": 20059,
+        "R_no": 19941,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19985,
-        "R_no": 20015,
+        "I_no": 20026,
+        "R_no": 19974,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19946,
-        "R_no": 20054,
+        "I_no": 19976,
+        "R_no": 20024,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19905,
-        "R_no": 20095,
+        "I_no": 19932,
+        "R_no": 20068,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19870,
-        "R_no": 20130,
+        "I_no": 19889,
+        "R_no": 20111,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19832,
-        "R_no": 20168,
+        "I_no": 19845,
+        "R_no": 20155,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19790,
-        "R_no": 20210,
+        "I_no": 19812,
+        "R_no": 20188,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19744,
-        "R_no": 20256,
+        "I_no": 19770,
+        "R_no": 20230,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19700,
-        "R_no": 20300,
+        "I_no": 19733,
+        "R_no": 20267,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19656,
-        "R_no": 20344,
+        "I_no": 19699,
+        "R_no": 20301,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 19658,
+        "R_no": 20342,
         "new_infections": 0
     },
     {
@@ -3967,272 +3967,266 @@
     },
     {
         "S_no": 0,
-        "I_no": 19577,
-        "R_no": 20423,
+        "I_no": 19574,
+        "R_no": 20426,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19547,
-        "R_no": 20453,
+        "I_no": 19533,
+        "R_no": 20467,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19514,
-        "R_no": 20486,
+        "I_no": 19486,
+        "R_no": 20514,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19470,
-        "R_no": 20530,
+        "I_no": 19438,
+        "R_no": 20562,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19433,
-        "R_no": 20567,
+        "I_no": 19412,
+        "R_no": 20588,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19400,
-        "R_no": 20600,
+        "I_no": 19379,
+        "R_no": 20621,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19369,
-        "R_no": 20631,
+        "I_no": 19342,
+        "R_no": 20658,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19337,
-        "R_no": 20663,
+        "I_no": 19295,
+        "R_no": 20705,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19282,
-        "R_no": 20718,
+        "I_no": 19255,
+        "R_no": 20745,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19254,
-        "R_no": 20746,
+        "I_no": 19214,
+        "R_no": 20786,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19216,
-        "R_no": 20784,
+        "I_no": 19186,
+        "R_no": 20814,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19177,
-        "R_no": 20823,
+        "I_no": 19148,
+        "R_no": 20852,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19132,
-        "R_no": 20868,
+        "I_no": 19116,
+        "R_no": 20884,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19090,
-        "R_no": 20910,
+        "I_no": 19073,
+        "R_no": 20927,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19043,
-        "R_no": 20957,
+        "I_no": 19032,
+        "R_no": 20968,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 19011,
-        "R_no": 20989,
+        "I_no": 19001,
+        "R_no": 20999,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18981,
-        "R_no": 21019,
+        "I_no": 18971,
+        "R_no": 21029,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18941,
-        "R_no": 21059,
+        "I_no": 18937,
+        "R_no": 21063,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18910,
-        "R_no": 21090,
+        "I_no": 18903,
+        "R_no": 21097,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18860,
-        "R_no": 21140,
+        "I_no": 18869,
+        "R_no": 21131,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18815,
-        "R_no": 21185,
+        "I_no": 18834,
+        "R_no": 21166,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18782,
-        "R_no": 21218,
+        "I_no": 18796,
+        "R_no": 21204,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18752,
-        "R_no": 21248,
+        "I_no": 18748,
+        "R_no": 21252,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18715,
-        "R_no": 21285,
+        "I_no": 18717,
+        "R_no": 21283,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18673,
-        "R_no": 21327,
+        "I_no": 18671,
+        "R_no": 21329,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18621,
-        "R_no": 21379,
+        "I_no": 18628,
+        "R_no": 21372,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18575,
-        "R_no": 21425,
+        "I_no": 18580,
+        "R_no": 21420,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18536,
-        "R_no": 21464,
+        "I_no": 18537,
+        "R_no": 21463,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18496,
-        "R_no": 21504,
+        "I_no": 18493,
+        "R_no": 21507,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18468,
-        "R_no": 21532,
+        "I_no": 18460,
+        "R_no": 21540,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18424,
-        "R_no": 21576,
+        "I_no": 18431,
+        "R_no": 21569,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18385,
-        "R_no": 21615,
+        "I_no": 18397,
+        "R_no": 21603,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18343,
-        "R_no": 21657,
+        "I_no": 18357,
+        "R_no": 21643,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18305,
-        "R_no": 21695,
+        "I_no": 18323,
+        "R_no": 21677,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18261,
-        "R_no": 21739,
+        "I_no": 18288,
+        "R_no": 21712,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18229,
-        "R_no": 21771,
+        "I_no": 18247,
+        "R_no": 21753,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18196,
-        "R_no": 21804,
+        "I_no": 18217,
+        "R_no": 21783,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18171,
-        "R_no": 21829,
+        "I_no": 18166,
+        "R_no": 21834,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18147,
-        "R_no": 21853,
+        "I_no": 18128,
+        "R_no": 21872,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18099,
-        "R_no": 21901,
+        "I_no": 18085,
+        "R_no": 21915,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18069,
-        "R_no": 21931,
+        "I_no": 18058,
+        "R_no": 21942,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18036,
-        "R_no": 21964,
+        "I_no": 18015,
+        "R_no": 21985,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 18003,
-        "R_no": 21997,
+        "I_no": 17976,
+        "R_no": 22024,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17975,
-        "R_no": 22025,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 17936,
-        "R_no": 22064,
+        "I_no": 17937,
+        "R_no": 22063,
         "new_infections": 0
     },
     {
@@ -4243,56 +4237,56 @@
     },
     {
         "S_no": 0,
-        "I_no": 17865,
-        "R_no": 22135,
+        "I_no": 17872,
+        "R_no": 22128,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17829,
-        "R_no": 22171,
+        "I_no": 17839,
+        "R_no": 22161,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17784,
-        "R_no": 22216,
+        "I_no": 17806,
+        "R_no": 22194,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17752,
-        "R_no": 22248,
+        "I_no": 17763,
+        "R_no": 22237,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17713,
-        "R_no": 22287,
+        "I_no": 17731,
+        "R_no": 22269,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17670,
-        "R_no": 22330,
+        "I_no": 17682,
+        "R_no": 22318,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17643,
-        "R_no": 22357,
+        "I_no": 17647,
+        "R_no": 22353,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17617,
-        "R_no": 22383,
+        "I_no": 17621,
+        "R_no": 22379,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17579,
-        "R_no": 22421,
+        "I_no": 17592,
+        "R_no": 22408,
         "new_infections": 0
     },
     {
@@ -4309,80 +4303,80 @@
     },
     {
         "S_no": 0,
-        "I_no": 17481,
-        "R_no": 22519,
+        "I_no": 17489,
+        "R_no": 22511,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17444,
-        "R_no": 22556,
+        "I_no": 17448,
+        "R_no": 22552,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17404,
-        "R_no": 22596,
+        "I_no": 17415,
+        "R_no": 22585,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17365,
-        "R_no": 22635,
+        "I_no": 17370,
+        "R_no": 22630,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17328,
-        "R_no": 22672,
+        "I_no": 17333,
+        "R_no": 22667,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17292,
-        "R_no": 22708,
+        "I_no": 17304,
+        "R_no": 22696,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17258,
-        "R_no": 22742,
+        "I_no": 17265,
+        "R_no": 22735,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17213,
-        "R_no": 22787,
+        "I_no": 17225,
+        "R_no": 22775,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17184,
-        "R_no": 22816,
+        "I_no": 17194,
+        "R_no": 22806,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17157,
-        "R_no": 22843,
+        "I_no": 17163,
+        "R_no": 22837,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17121,
-        "R_no": 22879,
+        "I_no": 17129,
+        "R_no": 22871,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17085,
-        "R_no": 22915,
+        "I_no": 17087,
+        "R_no": 22913,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 17060,
-        "R_no": 22940,
+        "I_no": 17065,
+        "R_no": 22935,
         "new_infections": 0
     },
     {
@@ -4393,146 +4387,146 @@
     },
     {
         "S_no": 0,
-        "I_no": 17001,
-        "R_no": 22999,
+        "I_no": 16999,
+        "R_no": 23001,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16967,
-        "R_no": 23033,
+        "I_no": 16964,
+        "R_no": 23036,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16927,
-        "R_no": 23073,
+        "I_no": 16925,
+        "R_no": 23075,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16893,
-        "R_no": 23107,
+        "I_no": 16885,
+        "R_no": 23115,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16864,
-        "R_no": 23136,
+        "I_no": 16854,
+        "R_no": 23146,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16826,
-        "R_no": 23174,
+        "I_no": 16820,
+        "R_no": 23180,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16790,
-        "R_no": 23210,
+        "I_no": 16782,
+        "R_no": 23218,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16762,
-        "R_no": 23238,
+        "I_no": 16753,
+        "R_no": 23247,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16726,
-        "R_no": 23274,
+        "I_no": 16721,
+        "R_no": 23279,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16694,
-        "R_no": 23306,
+        "I_no": 16701,
+        "R_no": 23299,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16660,
-        "R_no": 23340,
+        "I_no": 16671,
+        "R_no": 23329,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16628,
-        "R_no": 23372,
+        "I_no": 16632,
+        "R_no": 23368,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16588,
-        "R_no": 23412,
+        "I_no": 16594,
+        "R_no": 23406,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16554,
-        "R_no": 23446,
+        "I_no": 16563,
+        "R_no": 23437,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16508,
-        "R_no": 23492,
+        "I_no": 16519,
+        "R_no": 23481,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16469,
-        "R_no": 23531,
+        "I_no": 16483,
+        "R_no": 23517,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16436,
-        "R_no": 23564,
+        "I_no": 16455,
+        "R_no": 23545,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16386,
-        "R_no": 23614,
+        "I_no": 16424,
+        "R_no": 23576,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16363,
-        "R_no": 23637,
+        "I_no": 16396,
+        "R_no": 23604,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16324,
-        "R_no": 23676,
+        "I_no": 16355,
+        "R_no": 23645,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16300,
-        "R_no": 23700,
+        "I_no": 16318,
+        "R_no": 23682,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16263,
-        "R_no": 23737,
+        "I_no": 16277,
+        "R_no": 23723,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16237,
-        "R_no": 23763,
+        "I_no": 16240,
+        "R_no": 23760,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16208,
-        "R_no": 23792,
+        "I_no": 16204,
+        "R_no": 23796,
         "new_infections": 0
     },
     {
@@ -4543,14 +4537,14 @@
     },
     {
         "S_no": 0,
-        "I_no": 16149,
-        "R_no": 23851,
+        "I_no": 16145,
+        "R_no": 23855,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16116,
-        "R_no": 23884,
+        "I_no": 16119,
+        "R_no": 23881,
         "new_infections": 0
     },
     {
@@ -4561,272 +4555,248 @@
     },
     {
         "S_no": 0,
-        "I_no": 16058,
-        "R_no": 23942,
+        "I_no": 16059,
+        "R_no": 23941,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 16022,
-        "R_no": 23978,
+        "I_no": 16020,
+        "R_no": 23980,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15990,
-        "R_no": 24010,
+        "I_no": 15993,
+        "R_no": 24007,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15963,
-        "R_no": 24037,
+        "I_no": 15951,
+        "R_no": 24049,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15931,
-        "R_no": 24069,
+        "I_no": 15917,
+        "R_no": 24083,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15904,
-        "R_no": 24096,
+        "I_no": 15887,
+        "R_no": 24113,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15880,
-        "R_no": 24120,
+        "I_no": 15850,
+        "R_no": 24150,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15851,
-        "R_no": 24149,
+        "I_no": 15829,
+        "R_no": 24171,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15815,
-        "R_no": 24185,
+        "I_no": 15799,
+        "R_no": 24201,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15778,
-        "R_no": 24222,
+        "I_no": 15768,
+        "R_no": 24232,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15755,
-        "R_no": 24245,
+        "I_no": 15731,
+        "R_no": 24269,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15723,
-        "R_no": 24277,
+        "I_no": 15701,
+        "R_no": 24299,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15699,
-        "R_no": 24301,
+        "I_no": 15667,
+        "R_no": 24333,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15665,
-        "R_no": 24335,
+        "I_no": 15627,
+        "R_no": 24373,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15639,
-        "R_no": 24361,
+        "I_no": 15602,
+        "R_no": 24398,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15608,
-        "R_no": 24392,
+        "I_no": 15561,
+        "R_no": 24439,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15570,
-        "R_no": 24430,
+        "I_no": 15527,
+        "R_no": 24473,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15541,
-        "R_no": 24459,
+        "I_no": 15507,
+        "R_no": 24493,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15511,
-        "R_no": 24489,
+        "I_no": 15478,
+        "R_no": 24522,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15484,
-        "R_no": 24516,
+        "I_no": 15440,
+        "R_no": 24560,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15450,
-        "R_no": 24550,
+        "I_no": 15415,
+        "R_no": 24585,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15421,
-        "R_no": 24579,
+        "I_no": 15384,
+        "R_no": 24616,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15387,
-        "R_no": 24613,
+        "I_no": 15355,
+        "R_no": 24645,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15357,
-        "R_no": 24643,
+        "I_no": 15326,
+        "R_no": 24674,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15331,
-        "R_no": 24669,
+        "I_no": 15299,
+        "R_no": 24701,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15308,
-        "R_no": 24692,
+        "I_no": 15266,
+        "R_no": 24734,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15268,
-        "R_no": 24732,
+        "I_no": 15230,
+        "R_no": 24770,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15244,
-        "R_no": 24756,
+        "I_no": 15200,
+        "R_no": 24800,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15227,
-        "R_no": 24773,
+        "I_no": 15162,
+        "R_no": 24838,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15199,
-        "R_no": 24801,
+        "I_no": 15128,
+        "R_no": 24872,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15161,
-        "R_no": 24839,
+        "I_no": 15086,
+        "R_no": 24914,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15130,
-        "R_no": 24870,
+        "I_no": 15050,
+        "R_no": 24950,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15102,
-        "R_no": 24898,
+        "I_no": 15014,
+        "R_no": 24986,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15080,
-        "R_no": 24920,
+        "I_no": 14980,
+        "R_no": 25020,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15061,
-        "R_no": 24939,
+        "I_no": 14952,
+        "R_no": 25048,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 15026,
-        "R_no": 24974,
+        "I_no": 14935,
+        "R_no": 25065,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14996,
-        "R_no": 25004,
+        "I_no": 14891,
+        "R_no": 25109,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14967,
-        "R_no": 25033,
+        "I_no": 14859,
+        "R_no": 25141,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14937,
-        "R_no": 25063,
+        "I_no": 14835,
+        "R_no": 25165,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14899,
-        "R_no": 25101,
+        "I_no": 14801,
+        "R_no": 25199,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14875,
-        "R_no": 25125,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 14847,
-        "R_no": 25153,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 14811,
-        "R_no": 25189,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 14781,
-        "R_no": 25219,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 14757,
-        "R_no": 25243,
+        "I_no": 14755,
+        "R_no": 25245,
         "new_infections": 0
     },
     {
@@ -4837,152 +4807,140 @@
     },
     {
         "S_no": 0,
-        "I_no": 14691,
-        "R_no": 25309,
+        "I_no": 14679,
+        "R_no": 25321,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14667,
-        "R_no": 25333,
+        "I_no": 14652,
+        "R_no": 25348,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14641,
-        "R_no": 25359,
+        "I_no": 14626,
+        "R_no": 25374,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14619,
-        "R_no": 25381,
+        "I_no": 14592,
+        "R_no": 25408,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14595,
-        "R_no": 25405,
+        "I_no": 14563,
+        "R_no": 25437,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14569,
-        "R_no": 25431,
+        "I_no": 14529,
+        "R_no": 25471,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14550,
-        "R_no": 25450,
+        "I_no": 14501,
+        "R_no": 25499,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14526,
-        "R_no": 25474,
+        "I_no": 14465,
+        "R_no": 25535,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14506,
-        "R_no": 25494,
+        "I_no": 14438,
+        "R_no": 25562,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14477,
-        "R_no": 25523,
+        "I_no": 14406,
+        "R_no": 25594,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14448,
-        "R_no": 25552,
+        "I_no": 14381,
+        "R_no": 25619,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14404,
-        "R_no": 25596,
+        "I_no": 14361,
+        "R_no": 25639,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14374,
-        "R_no": 25626,
+        "I_no": 14331,
+        "R_no": 25669,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14341,
-        "R_no": 25659,
+        "I_no": 14315,
+        "R_no": 25685,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14311,
-        "R_no": 25689,
+        "I_no": 14283,
+        "R_no": 25717,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14280,
-        "R_no": 25720,
+        "I_no": 14246,
+        "R_no": 25754,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14261,
-        "R_no": 25739,
+        "I_no": 14215,
+        "R_no": 25785,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14230,
-        "R_no": 25770,
+        "I_no": 14188,
+        "R_no": 25812,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14206,
-        "R_no": 25794,
+        "I_no": 14164,
+        "R_no": 25836,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14176,
-        "R_no": 25824,
+        "I_no": 14141,
+        "R_no": 25859,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14149,
-        "R_no": 25851,
+        "I_no": 14102,
+        "R_no": 25898,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14124,
-        "R_no": 25876,
+        "I_no": 14072,
+        "R_no": 25928,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 14095,
-        "R_no": 25905,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 14065,
-        "R_no": 25935,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 14032,
-        "R_no": 25968,
+        "I_no": 14043,
+        "R_no": 25957,
         "new_infections": 0
     },
     {
@@ -4993,62 +4951,62 @@
     },
     {
         "S_no": 0,
-        "I_no": 13970,
-        "R_no": 26030,
+        "I_no": 13985,
+        "R_no": 26015,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13944,
-        "R_no": 26056,
+        "I_no": 13957,
+        "R_no": 26043,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13912,
-        "R_no": 26088,
+        "I_no": 13931,
+        "R_no": 26069,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13882,
-        "R_no": 26118,
+        "I_no": 13896,
+        "R_no": 26104,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13850,
-        "R_no": 26150,
+        "I_no": 13871,
+        "R_no": 26129,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13828,
-        "R_no": 26172,
+        "I_no": 13838,
+        "R_no": 26162,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13808,
-        "R_no": 26192,
+        "I_no": 13809,
+        "R_no": 26191,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13788,
-        "R_no": 26212,
+        "I_no": 13785,
+        "R_no": 26215,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13762,
-        "R_no": 26238,
+        "I_no": 13759,
+        "R_no": 26241,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13737,
-        "R_no": 26263,
+        "I_no": 13730,
+        "R_no": 26270,
         "new_infections": 0
     },
     {
@@ -5059,158 +5017,152 @@
     },
     {
         "S_no": 0,
-        "I_no": 13681,
-        "R_no": 26319,
+        "I_no": 13685,
+        "R_no": 26315,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13656,
-        "R_no": 26344,
+        "I_no": 13665,
+        "R_no": 26335,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13633,
-        "R_no": 26367,
+        "I_no": 13629,
+        "R_no": 26371,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13604,
-        "R_no": 26396,
+        "I_no": 13612,
+        "R_no": 26388,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13581,
-        "R_no": 26419,
+        "I_no": 13588,
+        "R_no": 26412,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13559,
-        "R_no": 26441,
+        "I_no": 13558,
+        "R_no": 26442,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13538,
-        "R_no": 26462,
+        "I_no": 13537,
+        "R_no": 26463,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13506,
-        "R_no": 26494,
+        "I_no": 13507,
+        "R_no": 26493,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13471,
-        "R_no": 26529,
+        "I_no": 13479,
+        "R_no": 26521,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13445,
-        "R_no": 26555,
+        "I_no": 13446,
+        "R_no": 26554,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13423,
-        "R_no": 26577,
+        "I_no": 13413,
+        "R_no": 26587,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13402,
-        "R_no": 26598,
+        "I_no": 13388,
+        "R_no": 26612,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13364,
-        "R_no": 26636,
+        "I_no": 13370,
+        "R_no": 26630,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13328,
-        "R_no": 26672,
+        "I_no": 13336,
+        "R_no": 26664,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13303,
-        "R_no": 26697,
+        "I_no": 13310,
+        "R_no": 26690,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13277,
-        "R_no": 26723,
+        "I_no": 13293,
+        "R_no": 26707,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13257,
-        "R_no": 26743,
+        "I_no": 13270,
+        "R_no": 26730,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13234,
-        "R_no": 26766,
+        "I_no": 13239,
+        "R_no": 26761,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13208,
-        "R_no": 26792,
+        "I_no": 13217,
+        "R_no": 26783,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13183,
-        "R_no": 26817,
+        "I_no": 13182,
+        "R_no": 26818,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13160,
-        "R_no": 26840,
+        "I_no": 13157,
+        "R_no": 26843,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13139,
-        "R_no": 26861,
+        "I_no": 13127,
+        "R_no": 26873,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13111,
-        "R_no": 26889,
+        "I_no": 13093,
+        "R_no": 26907,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13092,
-        "R_no": 26908,
+        "I_no": 13069,
+        "R_no": 26931,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 13056,
-        "R_no": 26944,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 13031,
-        "R_no": 26969,
+        "I_no": 13042,
+        "R_no": 26958,
         "new_infections": 0
     },
     {
@@ -5221,212 +5173,224 @@
     },
     {
         "S_no": 0,
-        "I_no": 12982,
-        "R_no": 27018,
+        "I_no": 12977,
+        "R_no": 27023,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12962,
-        "R_no": 27038,
+        "I_no": 12949,
+        "R_no": 27051,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12944,
-        "R_no": 27056,
+        "I_no": 12928,
+        "R_no": 27072,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12912,
-        "R_no": 27088,
+        "I_no": 12907,
+        "R_no": 27093,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12878,
-        "R_no": 27122,
+        "I_no": 12885,
+        "R_no": 27115,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12854,
-        "R_no": 27146,
+        "I_no": 12859,
+        "R_no": 27141,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12828,
-        "R_no": 27172,
+        "I_no": 12837,
+        "R_no": 27163,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12792,
-        "R_no": 27208,
+        "I_no": 12801,
+        "R_no": 27199,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12768,
-        "R_no": 27232,
+        "I_no": 12770,
+        "R_no": 27230,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12742,
-        "R_no": 27258,
+        "I_no": 12746,
+        "R_no": 27254,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12708,
-        "R_no": 27292,
+        "I_no": 12724,
+        "R_no": 27276,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12682,
-        "R_no": 27318,
+        "I_no": 12705,
+        "R_no": 27295,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12658,
-        "R_no": 27342,
+        "I_no": 12678,
+        "R_no": 27322,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12637,
-        "R_no": 27363,
+        "I_no": 12654,
+        "R_no": 27346,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12606,
-        "R_no": 27394,
+        "I_no": 12625,
+        "R_no": 27375,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12584,
-        "R_no": 27416,
+        "I_no": 12601,
+        "R_no": 27399,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12559,
-        "R_no": 27441,
+        "I_no": 12572,
+        "R_no": 27428,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12528,
-        "R_no": 27472,
+        "I_no": 12550,
+        "R_no": 27450,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12497,
-        "R_no": 27503,
+        "I_no": 12529,
+        "R_no": 27471,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12476,
-        "R_no": 27524,
+        "I_no": 12507,
+        "R_no": 27493,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12449,
-        "R_no": 27551,
+        "I_no": 12485,
+        "R_no": 27515,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12423,
-        "R_no": 27577,
+        "I_no": 12462,
+        "R_no": 27538,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12396,
-        "R_no": 27604,
+        "I_no": 12442,
+        "R_no": 27558,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12374,
-        "R_no": 27626,
+        "I_no": 12418,
+        "R_no": 27582,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12350,
-        "R_no": 27650,
+        "I_no": 12392,
+        "R_no": 27608,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12327,
-        "R_no": 27673,
+        "I_no": 12367,
+        "R_no": 27633,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12304,
-        "R_no": 27696,
+        "I_no": 12342,
+        "R_no": 27658,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12269,
-        "R_no": 27731,
+        "I_no": 12316,
+        "R_no": 27684,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12231,
-        "R_no": 27769,
+        "I_no": 12291,
+        "R_no": 27709,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12209,
-        "R_no": 27791,
+        "I_no": 12273,
+        "R_no": 27727,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12169,
-        "R_no": 27831,
+        "I_no": 12252,
+        "R_no": 27748,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12137,
-        "R_no": 27863,
+        "I_no": 12225,
+        "R_no": 27775,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12115,
-        "R_no": 27885,
+        "I_no": 12201,
+        "R_no": 27799,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12091,
-        "R_no": 27909,
+        "I_no": 12178,
+        "R_no": 27822,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 12060,
-        "R_no": 27940,
+        "I_no": 12147,
+        "R_no": 27853,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 12110,
+        "R_no": 27890,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 12077,
+        "R_no": 27923,
         "new_infections": 0
     },
     {
@@ -5437,56 +5401,62 @@
     },
     {
         "S_no": 0,
-        "I_no": 12022,
-        "R_no": 27978,
+        "I_no": 12023,
+        "R_no": 27977,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11994,
-        "R_no": 28006,
+        "I_no": 12004,
+        "R_no": 27996,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11974,
-        "R_no": 28026,
+        "I_no": 11981,
+        "R_no": 28019,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11947,
-        "R_no": 28053,
+        "I_no": 11955,
+        "R_no": 28045,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11915,
-        "R_no": 28085,
+        "I_no": 11930,
+        "R_no": 28070,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11889,
-        "R_no": 28111,
+        "I_no": 11902,
+        "R_no": 28098,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11868,
-        "R_no": 28132,
+        "I_no": 11876,
+        "R_no": 28124,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11849,
-        "R_no": 28151,
+        "I_no": 11853,
+        "R_no": 28147,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11824,
-        "R_no": 28176,
+        "I_no": 11836,
+        "R_no": 28164,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 11818,
+        "R_no": 28182,
         "new_infections": 0
     },
     {
@@ -5497,332 +5467,308 @@
     },
     {
         "S_no": 0,
-        "I_no": 11767,
-        "R_no": 28233,
+        "I_no": 11777,
+        "R_no": 28223,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11741,
-        "R_no": 28259,
+        "I_no": 11745,
+        "R_no": 28255,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11727,
-        "R_no": 28273,
+        "I_no": 11729,
+        "R_no": 28271,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11707,
-        "R_no": 28293,
+        "I_no": 11711,
+        "R_no": 28289,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11686,
-        "R_no": 28314,
+        "I_no": 11680,
+        "R_no": 28320,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11662,
-        "R_no": 28338,
+        "I_no": 11653,
+        "R_no": 28347,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11642,
-        "R_no": 28358,
+        "I_no": 11624,
+        "R_no": 28376,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11615,
-        "R_no": 28385,
+        "I_no": 11606,
+        "R_no": 28394,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11594,
-        "R_no": 28406,
+        "I_no": 11583,
+        "R_no": 28417,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11567,
-        "R_no": 28433,
+        "I_no": 11541,
+        "R_no": 28459,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11537,
-        "R_no": 28463,
+        "I_no": 11519,
+        "R_no": 28481,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11518,
-        "R_no": 28482,
+        "I_no": 11492,
+        "R_no": 28508,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11493,
-        "R_no": 28507,
+        "I_no": 11472,
+        "R_no": 28528,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11473,
-        "R_no": 28527,
+        "I_no": 11455,
+        "R_no": 28545,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11448,
-        "R_no": 28552,
+        "I_no": 11431,
+        "R_no": 28569,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11430,
-        "R_no": 28570,
+        "I_no": 11409,
+        "R_no": 28591,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11405,
-        "R_no": 28595,
+        "I_no": 11387,
+        "R_no": 28613,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11383,
-        "R_no": 28617,
+        "I_no": 11357,
+        "R_no": 28643,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11360,
-        "R_no": 28640,
+        "I_no": 11346,
+        "R_no": 28654,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11336,
-        "R_no": 28664,
+        "I_no": 11326,
+        "R_no": 28674,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11316,
-        "R_no": 28684,
+        "I_no": 11305,
+        "R_no": 28695,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11295,
-        "R_no": 28705,
+        "I_no": 11280,
+        "R_no": 28720,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11275,
-        "R_no": 28725,
+        "I_no": 11246,
+        "R_no": 28754,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11254,
-        "R_no": 28746,
+        "I_no": 11224,
+        "R_no": 28776,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11235,
-        "R_no": 28765,
+        "I_no": 11198,
+        "R_no": 28802,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11209,
-        "R_no": 28791,
+        "I_no": 11172,
+        "R_no": 28828,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11185,
-        "R_no": 28815,
+        "I_no": 11148,
+        "R_no": 28852,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11167,
-        "R_no": 28833,
+        "I_no": 11116,
+        "R_no": 28884,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11143,
-        "R_no": 28857,
+        "I_no": 11092,
+        "R_no": 28908,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11119,
-        "R_no": 28881,
+        "I_no": 11076,
+        "R_no": 28924,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11094,
-        "R_no": 28906,
+        "I_no": 11045,
+        "R_no": 28955,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11066,
-        "R_no": 28934,
+        "I_no": 11021,
+        "R_no": 28979,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11051,
-        "R_no": 28949,
+        "I_no": 10991,
+        "R_no": 29009,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11031,
-        "R_no": 28969,
+        "I_no": 10971,
+        "R_no": 29029,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 11017,
-        "R_no": 28983,
+        "I_no": 10950,
+        "R_no": 29050,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10997,
-        "R_no": 29003,
+        "I_no": 10923,
+        "R_no": 29077,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10978,
-        "R_no": 29022,
+        "I_no": 10902,
+        "R_no": 29098,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10956,
-        "R_no": 29044,
+        "I_no": 10871,
+        "R_no": 29129,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10931,
-        "R_no": 29069,
+        "I_no": 10856,
+        "R_no": 29144,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10912,
-        "R_no": 29088,
+        "I_no": 10832,
+        "R_no": 29168,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10897,
-        "R_no": 29103,
+        "I_no": 10817,
+        "R_no": 29183,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10873,
-        "R_no": 29127,
+        "I_no": 10794,
+        "R_no": 29206,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10848,
-        "R_no": 29152,
+        "I_no": 10777,
+        "R_no": 29223,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10826,
-        "R_no": 29174,
+        "I_no": 10762,
+        "R_no": 29238,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10800,
-        "R_no": 29200,
+        "I_no": 10734,
+        "R_no": 29266,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10783,
-        "R_no": 29217,
+        "I_no": 10715,
+        "R_no": 29285,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10755,
-        "R_no": 29245,
+        "I_no": 10693,
+        "R_no": 29307,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10739,
-        "R_no": 29261,
+        "I_no": 10670,
+        "R_no": 29330,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10714,
-        "R_no": 29286,
+        "I_no": 10647,
+        "R_no": 29353,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10696,
-        "R_no": 29304,
+        "I_no": 10623,
+        "R_no": 29377,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10675,
-        "R_no": 29325,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 10650,
-        "R_no": 29350,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 10633,
-        "R_no": 29367,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 10613,
-        "R_no": 29387,
-        "new_infections": 0
-    },
-    {
-        "S_no": 0,
-        "I_no": 10599,
-        "R_no": 29401,
+        "I_no": 10597,
+        "R_no": 29403,
         "new_infections": 0
     },
     {
@@ -5833,74 +5779,80 @@
     },
     {
         "S_no": 0,
-        "I_no": 10556,
-        "R_no": 29444,
+        "I_no": 10560,
+        "R_no": 29440,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10535,
-        "R_no": 29465,
+        "I_no": 10540,
+        "R_no": 29460,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10509,
-        "R_no": 29491,
+        "I_no": 10521,
+        "R_no": 29479,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10494,
-        "R_no": 29506,
+        "I_no": 10491,
+        "R_no": 29509,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10466,
-        "R_no": 29534,
+        "I_no": 10465,
+        "R_no": 29535,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10443,
-        "R_no": 29557,
+        "I_no": 10445,
+        "R_no": 29555,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10424,
-        "R_no": 29576,
+        "I_no": 10422,
+        "R_no": 29578,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10392,
-        "R_no": 29608,
+        "I_no": 10405,
+        "R_no": 29595,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10369,
-        "R_no": 29631,
+        "I_no": 10379,
+        "R_no": 29621,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10346,
-        "R_no": 29654,
+        "I_no": 10355,
+        "R_no": 29645,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10319,
-        "R_no": 29681,
+        "I_no": 10337,
+        "R_no": 29663,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10292,
-        "R_no": 29708,
+        "I_no": 10322,
+        "R_no": 29678,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 10302,
+        "R_no": 29698,
         "new_infections": 0
     },
     {
@@ -5911,92 +5863,140 @@
     },
     {
         "S_no": 0,
-        "I_no": 10253,
-        "R_no": 29747,
+        "I_no": 10264,
+        "R_no": 29736,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10228,
-        "R_no": 29772,
+        "I_no": 10246,
+        "R_no": 29754,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10199,
-        "R_no": 29801,
+        "I_no": 10221,
+        "R_no": 29779,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10184,
-        "R_no": 29816,
+        "I_no": 10193,
+        "R_no": 29807,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10159,
-        "R_no": 29841,
+        "I_no": 10179,
+        "R_no": 29821,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10140,
-        "R_no": 29860,
+        "I_no": 10156,
+        "R_no": 29844,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10121,
-        "R_no": 29879,
+        "I_no": 10133,
+        "R_no": 29867,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10097,
-        "R_no": 29903,
+        "I_no": 10109,
+        "R_no": 29891,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10079,
-        "R_no": 29921,
+        "I_no": 10089,
+        "R_no": 29911,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10049,
-        "R_no": 29951,
+        "I_no": 10069,
+        "R_no": 29931,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10030,
-        "R_no": 29970,
+        "I_no": 10058,
+        "R_no": 29942,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 10009,
-        "R_no": 29991,
+        "I_no": 10027,
+        "R_no": 29973,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 9996,
-        "R_no": 30004,
+        "I_no": 10008,
+        "R_no": 29992,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 9976,
-        "R_no": 30024,
+        "I_no": 9991,
+        "R_no": 30009,
         "new_infections": 0
     },
     {
         "S_no": 0,
-        "I_no": 9951,
-        "R_no": 30049,
+        "I_no": 9967,
+        "R_no": 30033,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 9941,
+        "R_no": 30059,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 9922,
+        "R_no": 30078,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 9904,
+        "R_no": 30096,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 9883,
+        "R_no": 30117,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 9857,
+        "R_no": 30143,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 9841,
+        "R_no": 30159,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 9821,
+        "R_no": 30179,
+        "new_infections": 0
+    },
+    {
+        "S_no": 0,
+        "I_no": 9800,
+        "R_no": 30200,
         "new_infections": 0
     }
 ]
