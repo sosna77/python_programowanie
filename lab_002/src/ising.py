@@ -91,9 +91,9 @@ def main():
 
     parser.add_argument('-N', '--size', type=int, default=100, help='lattice size (NxN) (default=100)')
     parser.add_argument('-J', '--exchange', type=float, default=1.0, help='exchange coefficient (default=1.0)')
-    parser.add_argument('-b', '--beta', type=float, default=0.1, help='temperature parameter (default=0.1)')
-    parser.add_argument('-B', '--field', type=float, default=1.0, help='external magnetic field (default=1.0)')
-    parser.add_argument('-M', '--steps', type=int, default=100, help='number of macrosteps (default=100)')
+    parser.add_argument('-b', '--beta', type=float, default=0.4406, help='temperature parameter (default=0.1)')
+    parser.add_argument('-B', '--field', type=float, default=0.0, help='external magnetic field (default=1.0)')
+    parser.add_argument('-M', '--steps', type=int, default=1000, help='number of macrosteps (default=100)')
 
     args = parser.parse_args()
 
